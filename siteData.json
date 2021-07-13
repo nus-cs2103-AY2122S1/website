@@ -208,7 +208,7 @@
         "1": "1 Generate a new JAR file",
         "4": "4 Add an extension",
         "ip-week-5": "iP: Week 5 ",
-        "2-add-increments-as-prs-a-assertions-a-codequality-a-lambdas-a-streams": "2 Add Increments as PRs: A-Assertions, A-CodeQuality, A-Lambdas, A-Streams",
+        "2-add-increments-as-prs-a-assertions-a-codequality-a-streams": "2 Add Increments as PRs: A-Assertions, A-CodeQuality, A-Streams",
         "3-add-increment-a-ci": "3 Add Increment: A-CI"
       },
       "headingKeywords": {}
@@ -391,6 +391,7 @@
         "constraint-portable": " Constraint-Portable",
         "constraint-no-remote-server": " Constraint-No-Remote-Server",
         "constraint-external-software": " Constraint-External-Software",
+        "constraint-screen-resolution": " Constraint-Screen-Resolution",
         "constraint-single-file": " Constraint-Single-File",
         "constraint-file-size": " Constraint-File-Size",
         "constraint-pdf-friendly": " Constraint-PDF-Friendly",
@@ -572,7 +573,8 @@
         "2": "2  Polish the product as per peer-testing results",
         "3": "3  Draft the PPP",
         "4": "4  Prepare for the demo rehearsal",
-        "5": "5  Double-check RepoSense compatibility",
+        "5": "5  Try PDF conversions early",
+        "6": "6  Double-check RepoSense compatibility",
         "tp-week-12-mid-v1-4": "tP week 12: mid-v1.4 ",
         "1-span-aria-hidden-true-class-far-fa-clock-span-during-the-lecture-span-aria-hidden-true-class-fab-fa-product-hunt-span": "1  Attend the practical exam dry run  During the lecture counted for participation"
       },
