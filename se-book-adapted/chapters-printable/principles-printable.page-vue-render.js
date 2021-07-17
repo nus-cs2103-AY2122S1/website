@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"principles"}},[_c('span',{staticClass:"anchor",attrs:{"id":"principles"}}),_c('span',[_v("Principles")])])])])}
@@ -59,6 +59,6 @@ with(this){return _c('li',[_v("Objects created/instantiated in "),_c('code',{pre
 with(this){return _c('p',[_c('strong',[_v("LoD aims to prevent objects from navigating the internal structures of other objects.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 18:25:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
 }];
   

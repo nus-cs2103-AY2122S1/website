@@ -1416,3 +1416,249 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
 2021-07-15T10:21:33.348Z - info: Website regeneration complete! Total build time: 0.976s
 2021-07-15T10:25:47.312Z - info: Website generation started at 6:25:45 pm
 2021-07-15T10:25:53.201Z - info: Building assets...
+2021-07-15T10:25:57.659Z - info: Assets built
+2021-07-15T10:25:57.660Z - info: Generating pages...
+2021-07-15T10:26:05.637Z - debug:  
+2021-07-15T10:26:05.637Z - debug:  
+2021-07-15T10:26:05.638Z - debug:  
+2021-07-15T10:26:05.638Z - debug:  
+2021-07-15T10:26:05.638Z - debug:  
+2021-07-15T10:26:05.638Z - debug:  
+2021-07-15T10:27:52.273Z - debug:  
+2021-07-15T10:28:04.444Z - debug:  
+2021-07-15T10:28:04.444Z - debug:  
+2021-07-15T10:28:10.155Z - info: Pages built
+2021-07-15T10:28:10.935Z - info: Site data built
+2021-07-15T10:28:10.935Z - info: Website generation complete! Total build time: 145.827s
+2021-07-15T10:28:10.935Z - info: Build success!
+2021-07-15T10:28:22.549Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-07-15T12:58:45.717Z - info: Website generation (lazy) started at 8:58:41 pm
+2021-07-15T12:58:50.653Z - info: Building assets...
+2021-07-15T12:58:55.778Z - info: Assets built
+2021-07-15T12:58:55.780Z - info: Generating landing page...
+2021-07-15T12:58:56.512Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-15T12:58:57.211Z - info: Site data built
+2021-07-15T12:58:57.211Z - info: Website generation (lazy) complete! Total build time: 15.447s
+2021-07-15T12:58:59.031Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:57446
+2021-07-15T12:58:59.031Z - info: Press CTRL+C to stop ...
+2021-07-15T12:59:52.604Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\index as some of its dependencies were changed since the last visit
+2021-07-15T12:59:53.758Z - info: Site data built
+2021-07-15T12:59:53.758Z - info: Lazy website regeneration complete! Total build time: 1.159s
+2021-07-15T12:59:56.617Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project as some of its dependencies were changed since the last visit
+2021-07-15T12:59:57.965Z - info: Site data built
+2021-07-15T12:59:57.965Z - info: Lazy website regeneration complete! Total build time: 1.348s
+2021-07-15T13:00:49.471Z - info: [9:00:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:00:49.471Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:00:49.471Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:00:49.472Z - info: 1. schedule/week3/project
+2021-07-15T13:00:50.483Z - info: Rebuilding 1 pages
+2021-07-15T13:00:51.842Z - info: Site data built
+2021-07-15T13:00:51.842Z - info: Pages rebuilt
+2021-07-15T13:00:51.842Z - info: Website regeneration complete! Total build time: 1.362s
+2021-07-15T13:04:13.274Z - info: [9:04:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:04:13.275Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:04:13.275Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:04:13.275Z - info: 1. schedule/week3/project
+2021-07-15T13:04:13.297Z - info: [9:04:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks.mbdf
+2021-07-15T13:04:13.297Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:04:13.297Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:04:13.297Z - info: 1. schedule/week3/project
+2021-07-15T13:04:14.285Z - info: Rebuilding 1 pages
+2021-07-15T13:04:14.487Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 185, Column 14]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 72, Column 65]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 504, Column 14]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 72, Column 65]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 71, Column 46]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 72, Column 65]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 51, Column 58]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md) [Line 72, Column 65]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md)
+  Error: template not found: admin/ip-tasks.md
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:41:3)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:469:37)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1122:20
+2021-07-15T13:04:14.487Z - warn:  Error: Error while generating undefined
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1130:15
+    at async sequentialAsyncForEach (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\async.js:15:7)
+    at async Site.generatePagesSequential (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1113:5)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1094:23
+    at async sequentialAsyncForEach (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\async.js:15:7)
+    at async Site.runPageGenerationTasks (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1085:5)
+    at async Site.regenerateAffectedPages (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1316:7)
+    at async Site._rebuildAffectedSourceFiles (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:742:7)
+2021-07-15T13:05:17.914Z - info: [9:05:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:05:17.915Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:05:17.915Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:05:17.915Z - info: 1. schedule/week3/project
+2021-07-15T13:05:18.929Z - info: Rebuilding 1 pages
+2021-07-15T13:05:19.994Z - error:  Error: No such file: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\ip-tasks.mbdf
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+    at _getFileExistsNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:34:19)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:181:26)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:295:20)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:300:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:299:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:300:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:299:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:333:30
+    at Array.map (<anonymous>)
+    at DomHandler._callback (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:330:35)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:340:36)
+2021-07-15T13:05:20.265Z - info: Site data built
+2021-07-15T13:05:20.265Z - info: Pages rebuilt
+2021-07-15T13:05:20.265Z - info: Website regeneration complete! Total build time: 1.337s
+2021-07-15T13:06:36.910Z - info: [9:06:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks.mbdf
+2021-07-15T13:06:36.911Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:06:36.911Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:06:36.911Z - info: 1. schedule/week3/project
+2021-07-15T13:06:37.924Z - info: Rebuilding 1 pages
+2021-07-15T13:06:39.322Z - info: Site data built
+2021-07-15T13:06:39.322Z - info: Pages rebuilt
+2021-07-15T13:06:39.323Z - info: Website regeneration complete! Total build time: 1.402s
+2021-07-15T13:07:16.364Z - info: [9:07:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:07:16.365Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:07:16.365Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:07:16.365Z - info: 1. schedule/week3/project
+2021-07-15T13:07:17.373Z - info: Rebuilding 1 pages
+2021-07-15T13:07:18.634Z - info: Site data built
+2021-07-15T13:07:18.635Z - info: Pages rebuilt
+2021-07-15T13:07:18.635Z - info: Website regeneration complete! Total build time: 1.265s
+2021-07-15T13:08:46.248Z - info: [9:08:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:08:46.248Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:08:46.249Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:08:46.249Z - info: 1. schedule/week3/project
+2021-07-15T13:08:47.255Z - info: Rebuilding 1 pages
+2021-07-15T13:08:48.591Z - info: Site data built
+2021-07-15T13:08:48.591Z - info: Pages rebuilt
+2021-07-15T13:08:48.591Z - info: Website regeneration complete! Total build time: 1.336s
+2021-07-15T13:09:01.526Z - info: [9:09:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:09:01.526Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:09:01.527Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:09:01.527Z - info: 1. schedule/week3/project
+2021-07-15T13:09:02.547Z - info: Rebuilding 1 pages
+2021-07-15T13:09:03.464Z - info: Site data built
+2021-07-15T13:09:03.464Z - info: Pages rebuilt
+2021-07-15T13:09:03.465Z - info: Website regeneration complete! Total build time: 0.919s
+2021-07-15T13:10:31.471Z - info: [9:10:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:10:31.472Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:10:31.472Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:10:31.472Z - info: 1. schedule/week3/project
+2021-07-15T13:10:32.476Z - info: Rebuilding 1 pages
+2021-07-15T13:10:33.812Z - info: Site data built
+2021-07-15T13:10:33.812Z - info: Pages rebuilt
+2021-07-15T13:10:33.812Z - info: Website regeneration complete! Total build time: 1.337s
+2021-07-15T13:10:49.969Z - info: [9:10:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:10:49.969Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:10:49.969Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:10:49.969Z - info: 1. schedule/week3/project
+2021-07-15T13:10:50.989Z - info: Rebuilding 1 pages
+2021-07-15T13:10:52.307Z - info: Site data built
+2021-07-15T13:10:52.307Z - info: Pages rebuilt
+2021-07-15T13:10:52.308Z - info: Website regeneration complete! Total build time: 1.322s
+2021-07-15T13:11:08.155Z - info: [9:11:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:11:08.156Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:11:08.156Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:11:08.156Z - info: 1. schedule/week3/project
+2021-07-15T13:11:09.162Z - info: Rebuilding 1 pages
+2021-07-15T13:11:10.409Z - info: Site data built
+2021-07-15T13:11:10.409Z - info: Pages rebuilt
+2021-07-15T13:11:10.410Z - info: Website regeneration complete! Total build time: 1.248s
+2021-07-15T13:11:36.729Z - info: [9:11:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project.md
+2021-07-15T13:11:36.730Z - info: Synchronizing opened pages list before reload
+2021-07-15T13:11:36.730Z - info: Current opened pages, from most-to-least recent:
+2021-07-15T13:11:36.730Z - info: 1. schedule/week3/project
+2021-07-15T13:11:37.743Z - info: Rebuilding 1 pages
+2021-07-15T13:11:39.009Z - info: Site data built
+2021-07-15T13:11:39.009Z - info: Pages rebuilt
+2021-07-15T13:11:39.009Z - info: Website regeneration complete! Total build time: 1.268s
+2021-07-15T14:13:37.752Z - info: Website generation started at 10:13:36 pm
+2021-07-15T14:13:42.122Z - info: Building assets...
+2021-07-15T14:13:46.418Z - info: Assets built
+2021-07-15T14:13:46.419Z - info: Generating pages...
+2021-07-15T14:13:53.544Z - debug:  
+2021-07-15T14:13:53.544Z - debug:  
+2021-07-15T14:13:53.544Z - debug:  
+2021-07-15T14:13:53.545Z - debug:  
+2021-07-15T14:13:53.545Z - debug:  
+2021-07-15T14:13:53.545Z - debug:  
+2021-07-15T14:15:24.181Z - debug:  
+2021-07-15T14:15:42.486Z - debug:  
+2021-07-15T14:15:42.486Z - debug:  
+2021-07-15T14:15:49.803Z - info: Pages built
+2021-07-15T14:15:50.759Z - info: Site data built
+2021-07-15T14:15:50.760Z - info: Website generation complete! Total build time: 134.495s
+2021-07-15T14:15:50.760Z - info: Build success!
+2021-07-15T14:16:01.512Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!

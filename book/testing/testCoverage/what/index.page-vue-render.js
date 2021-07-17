@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain test coverage")])])])])])}
@@ -29,6 +29,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Function/method coverage")]
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Path coverage")]),_v(" measures coverage in terms of possible paths through a given part of the code executed. 100% path coverage means all possible paths have been executed. A commonly used notation for path analysis is called the "),_c('em',[_v("Control Flow Graph (CFG)")]),_v(".")]),_v(" "),_c('li',[_c('strong',[_v("Entry/exit coverage")]),_v(" measures coverage in terms of possible "),_c('em',[_v("calls to")]),_v(" and "),_c('em',[_v("exits")]),_v(" from the operations in the SUT.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 18:25:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
 }];
   

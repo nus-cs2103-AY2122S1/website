@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can use Git to stash files")])])])])])}
@@ -23,6 +23,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"stash-shelving-changes-tempora
 with(this){return _c('p',[_c('strong',[_v("You can use Git's "),_c('mark',[_c('em',[_v("stash")])]),_v(" feature to temporarily shelve (or stash) changes you've made to your working copy")]),_v(" so that you can work on something else, and then come back and re-apply the stashed changes later on. "),_c('sub',[_v("-- adapted from "),_c('a',{attrs:{"href":"https://www.atlassian.com/git/tutorials/git-stash"}},[_v("Atlassian")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 18:25:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
 }];
   

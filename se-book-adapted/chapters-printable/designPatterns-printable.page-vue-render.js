@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"software-design-patterns"}},[_c('span',{staticClass:"anchor",attrs:{"id":"software-design-patterns"}}),_c('span',[_v("Software design patterns")])])])])}
@@ -125,6 +125,6 @@ with(this){return _c('p',[_c('strong',[_v("Solution")])])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observer>>")]),_v(" is an interface: any class that implements it can observe an "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observable>>")]),_v(". Any number of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observer>>")]),_v(" objects can observe (i.e. listen to changes of) the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observable>>")]),_v(" object.")]),_v(" "),_c('li',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observable>>")]),_v(" maintains a list of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observer>>")]),_v(" objects. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addObserver(Observer)")]),_v(" operation adds a new "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observer>>")]),_v(" to the list of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observer>>")]),_v("s.")]),_v(" "),_c('li',[_v("Whenever there is a change in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observable>>")]),_v(", the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("notifyObservers()")]),_v(" operation is called that will call the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("update()")]),_v(" operation of all "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<Observer>>")]),_v("s in the list.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 18:25:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
 }];
   

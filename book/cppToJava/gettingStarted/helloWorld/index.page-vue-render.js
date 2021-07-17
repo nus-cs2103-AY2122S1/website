@@ -5,10 +5,10 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain the Java HelloWorld program")])])])])])}
@@ -71,6 +71,6 @@ with(this){return _c('p',[_c('span',{staticStyle:{"opacity":"0.5"}},[_c('span',{
 with(this){return _c('ul',[_c('li',[_v("Java use the term "),_c('em',[_v("method")]),_v(" instead of "),_c('em',[_v("function")]),_v(". In particular, Java doesn’t have  stand-alone functions. Every method should belong to a class. The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("main")]),_v(" method will not work unless it is inside the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("HelloWorld")]),_v(" class.")]),_v(" "),_c('li',[_v("A Java class definition does not end with a semicolon, but most Java statements do.")]),_v(" "),_c('li',[_v("In "),_c('em',[_v("most")]),_v(" cases (i.e., there are exceptions), the name of the class has to match the name of the file it is in, so this class has to be in a file named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("HelloWorld.java")]),_v(".")]),_v(" "),_c('li',[_v("There is no need for the HelloWorld code to have something like "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("#include <iostream>")]),_v(". The library files needed by the HelloWorld code is available by default without having to \"include\" them explicitly.")]),_v(" "),_c('li',[_v("There is no need to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("return 0")]),_v(" at the end of the main method to indicate the execution was successful. It is considered as a successful execution unless an error is signalled specifically.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Thu, 15 Jul 2021, 18:25:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
 }];
   
