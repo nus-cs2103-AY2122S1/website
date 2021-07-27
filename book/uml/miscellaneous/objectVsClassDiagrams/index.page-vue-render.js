@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → UML →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"object-versus-class-diagrams"}},[_c('span',{staticClass:"anchor",attrs:{"id":"object-versus-class-diagrams"}}),_c('span',[_v("Object versus class diagrams")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"object-versus-class-diagrams"}},[_c('span',{staticClass:"anchor",attrs:{"id":"object-versus-class-diagrams"}}),_c('span',[_v("Object versus class diagrams")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#object-versus-class-diagrams","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Show objects instead of classes:\n"),_c('ul',[_c('li',[_v("Instance name may be shown")]),_v(" "),_c('li',[_v("There is a "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v(":")]),_v(" before the class name")]),_v(" "),_c('li',[_v("Instance and class names are underlined")])])]),_v(" "),_c('li',[_v("Methods are omitted")]),_v(" "),_c('li',[_v("Multiplicities are omitted")])])}
@@ -26,6 +26,6 @@ with(this){return _c('ul',[_c('li',[_v("Show objects instead of classes:\n"),_c(
 with(this){return _c('p',[_v("Furthermore, "),_c('strong',[_v("multiple object diagrams can correspond to a single class diagram")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

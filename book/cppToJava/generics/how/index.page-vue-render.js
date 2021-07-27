@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → Generics →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"how-to-use-generics"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how-to-use-generics"}}),_c('span',[_v("How to use Generics")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"how-to-use-generics"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how-to-use-generics"}}),_c('span',[_v("How to use Generics")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#how-to-use-generics","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("This section includes extract from the "),_c('small',[_c('span',{staticStyle:{"opacity":"0.5"}},[_c('span',{staticClass:"badge badge-secondary"},[_v("-- Java Tutorial")])])]),_v(", with some adaptations.")])}
@@ -47,6 +47,6 @@ with(this){return _c('p',[_c('strong',[_v("By convention, type parameter names a
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("E")]),_v(" - Element (used extensively by the Java Collections Framework)")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("K")]),_v(" - Key")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("N")]),_v(" - Number")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("T")]),_v(" - Type")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("V")]),_v(" - Value")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("S")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("U")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("V")]),_v(" etc. - 2nd, 3rd, 4th types")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

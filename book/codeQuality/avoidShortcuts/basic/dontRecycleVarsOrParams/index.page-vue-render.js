@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Code Quality → Error-Prone Practices → Basic →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"don-t-recycle-variables-or-parameters"}},[_c('span',{staticClass:"anchor",attrs:{"id":"don-t-recycle-variables-or-parameters"}}),_c('span',[_v("Don't recycle variables or parameters")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"don-t-recycle-variables-or-parameters"}},[_c('span',{staticClass:"anchor",attrs:{"id":"don-t-recycle-variables-or-parameters"}}),_c('span',[_v("Don't recycle variables or parameters")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#don-t-recycle-variables-or-parameters","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Use one variable for one purpose. Do not reuse a variable for a different purpose other than its intended one, just because the data type is the same.")]),_v(" "),_c('li',[_v("Do not reuse formal parameters as local variables inside the method.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

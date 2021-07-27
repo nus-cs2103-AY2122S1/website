@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Introduction →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what"}}),_c('span',[_v("What")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what"}}),_c('span',[_v("What")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Software design has two main aspects:")])])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("Software design has two main aspects:
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Product/external design: designing the external behavior of the product to meet the users' requirements.")]),_v(" This is usually done by product designers with input from business analysts, user experience experts, user representatives, etc.")]),_v(" "),_c('li',[_c('strong',[_v("Implementation/internal design: designing how the product will be implemented to meet the required external behavior.")]),_v(" This is usually done by software architects and software engineers.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → Revision Control →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"branching"}},[_c('span',{staticClass:"anchor",attrs:{"id":"branching"}}),_c('span',[_v("Branching")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"branching"}},[_c('span',{staticClass:"anchor",attrs:{"id":"branching"}}),_c('span',[_v("Branching")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#branching","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('mark',[_c('em',[_v("Branching")])]),_v(" is the process of evolving multiple versions of the software in parallel.")]),_v(" For example, one team member can create a new branch and add an experimental feature to it while the rest of the team keeps working on another branch. Branches can be given names e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("master")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("release")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("dev")]),_v(".")])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("A branch can be "),_c('mark',[_c('em'
 with(this){return _c('strong',[_c('mark',[_c('em',[_v("Merge conflicts")])]),_v(" happen when you try to merge two branches that had changed the same part of the code")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

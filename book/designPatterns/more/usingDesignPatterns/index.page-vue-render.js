@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Design Patterns →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"using-design-patterns"}},[_c('span',{staticClass:"anchor",attrs:{"id":"using-design-patterns"}}),_c('span',[_v("Using design patterns")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"using-design-patterns"}},[_c('span',{staticClass:"anchor",attrs:{"id":"using-design-patterns"}}),_c('span',[_v("Using design patterns")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#using-design-patterns","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Design patterns provide a high-level vocabulary to talk about design.")])])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("Be careful not to overuse patterns.")
 with(this){return _c('ul',[_c('li',[_v("there is substantial improvement in  the design, not just superficial.")]),_v(" "),_c('li',[_v("the associated tradeoffs are carefully considered. There are times when a design pattern is not appropriate (or an overkill).")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

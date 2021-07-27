@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Code Quality → Readability →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('p',[_c('span',[_c('span',{staticClass:"fas fa-quote-left",attrs:{"aria-hidden":"true"}})]),_v(" Programs should be written and polished until they acquire publication quality. "),_c('span',[_c('span',{staticClass:"fas fa-quote-right",attrs:{"aria-hidden":"true"}})]),_v(" "),_c('sub',[_v("--"),_c('a',{attrs:{"href":"https://en.wikipedia.org/wiki/Niklaus_Wirth"}},[_v("Niklaus Wirth")])])])])}
@@ -26,6 +26,6 @@ with(this){return _c('blockquote',[_c('p',[_c('span',[_c('span',{staticClass:"fa
 with(this){return _c('p',[_c('strong',[_v("Among various dimensions of code quality, such as run-time efficiency, security, and robustness, one of the most important is understandability.")]),_v(" This is because in any non-trivial software project, code needs to be read, understood, and modified by other developers later on. Even if you do not intend to pass the code to someone else, code quality is still important because you will become a 'stranger' to your own code someday.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

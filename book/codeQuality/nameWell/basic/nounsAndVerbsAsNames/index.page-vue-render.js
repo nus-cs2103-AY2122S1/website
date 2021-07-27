@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Code Quality → Naming → Basic →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"use-nouns-for-things-and-verbs-for-actions"}},[_c('span',{staticClass:"anchor",attrs:{"id":"use-nouns-for-things-and-verbs-for-actions"}}),_c('span',[_v("Use nouns for things and verbs for actions")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"use-nouns-for-things-and-verbs-for-actions"}},[_c('span',{staticClass:"anchor",attrs:{"id":"use-nouns-for-things-and-verbs-for-actions"}}),_c('span',[_v("Use nouns for things and verbs for actions")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#use-nouns-for-things-and-verbs-for-actions","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('p',[_c('span',[_c('span',{staticClass:"fas fa-quote-left",attrs:{"aria-hidden":"true"}})]),_v(" Every system is built from a domain-specific language designed by the programmers to describe that system. Functions are the verbs of that language, and classes are the nouns. "),_c('span',[_c('span',{staticClass:"fas fa-quote-right",attrs:{"aria-hidden":"true"}})]),_c('br'),_c('sub',[_v("-- Robert C. Martin, "),_c('em',[_v("Clean Code: A Handbook of Agile Software Craftsmanship")])])])])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("Use nouns for classes/variables and v
 with(this){return _c('p',[_c('strong',[_v("Distinguish clearly between single-valued and multi-valued variables.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

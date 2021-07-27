@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → Miscellaneous Topics →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"streams-basic"}},[_c('span',{staticClass:"anchor",attrs:{"id":"streams-basic"}}),_c('span',[_v("Streams: Basic")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"streams-basic"}},[_c('span',{staticClass:"anchor",attrs:{"id":"streams-basic"}}),_c('span',[_v("Streams: Basic")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#streams-basic","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_c('strong',[_v("Java 8 introduced a number of new features (e.g. Lambdas, Streams)")]),_v(" that are not trivial to learn but also extremely useful to know.")]),_v(" "),_c('p',[_c('a',{attrs:{"href":"http://winterbe.com/posts/2014/03/16/java-8-tutorial/"}},[_v("Here")]),_v(" is an overview of new Java 8 features "),_c('span',{staticClass:"dimmed"},[_v("(written by Benjamin Winterberg)")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → IntelliJ IDEA →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"refactoring"}},[_c('span',{staticClass:"anchor",attrs:{"id":"refactoring"}}),_c('span',[_v("Refactoring")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"refactoring"}},[_c('span',{staticClass:"anchor",attrs:{"id":"refactoring"}}),_c('span',[_v("Refactoring")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#refactoring","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("This video explains how to automate the 'Extract variable' refactoring using IntelliJ IDEA. Most other refactorings available work similarly. i.e. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("select the code to refactor")]),_v(" → "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find the refactoring in the context menu")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("use the keyboard shortcut")]),_v(".")])}
@@ -32,6 +32,6 @@ with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.jetbrains.com/help/idea/introduction-to-refactoring.html"}},[_v("Introduction to Refactoring (in IntelliJ IDEA)")]),_v(": An article on the refactorings available in IntelliJ IDEA.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

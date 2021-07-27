@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"init-getting-started"}},[_c('span',{staticClass:"anchor",attrs:{"id":"init-getting-started"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("init")]),_v(": Getting started")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"init-getting-started"}},[_c('span',{staticClass:"anchor",attrs:{"id":"init-getting-started"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("init")]),_v(": Getting started")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#init-getting-started","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('span',{staticClass:"non-printable"},[_c('p',[_c('strong',[_v("0. Take a peek at the full picture(?)")]),_v(". Optionally, if you are the sort who prefers to have some sense of the full picture before you get into the nitty-gritty details, watch the video in the panel below:\n")])])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_c('strong',[_v("2. Next, initialize a repository.")])
 with(this){return _c('p',[_v("Create a directory for the repo (e.g., a directory named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("things")]),_v(").")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

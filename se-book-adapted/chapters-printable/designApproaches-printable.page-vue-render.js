@@ -11,30 +11,30 @@ with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-prin
 with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"design-approaches"}},[_c('span',{staticClass:"anchor",attrs:{"id":"design-approaches"}}),_c('span',[_v("Design approaches")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"design-approaches"}},[_c('span',{staticClass:"anchor",attrs:{"id":"design-approaches"}}),_c('span',[_v("Design approaches")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#design-approaches","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Multi-level design")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"multi-level-design"}},[_c('span',{staticClass:"anchor",attrs:{"id":"multi-level-design"}}),_c('span',[_v("Multi-level design")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#multi-level-design","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The design of bigger systems needs to be done/shown at multiple levels.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Top-down and bottom-up design")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"top-down-and-bottom-up-design"}},[_c('span',{staticClass:"anchor",attrs:{"id":"top-down-and-bottom-up-design"}}),_c('span',[_v("Top-down and bottom-up design")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#top-down-and-bottom-up-design","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Multi-level design can be done in a top-down manner, bottom-up manner, or as a mix.")])]),_v(" "),_c('ul',[_c('li',[_v("Top-down: Design the high-level design first and flesh out the lower levels later. This is especially useful when designing big and novel systems where the high-level design needs to be stable before lower levels can be designed.")]),_v(" "),_c('li',[_v("Bottom-up: Design lower level components first and put them together to create the higher-level systems later. This is not usually scalable for bigger systems. One instance where this approach might work is when designing a variation of an existing system or re-purposing existing components to build a new system.")]),_v(" "),_c('li',[_v("Mix: Design the top levels using the top-down approach but switch to a bottom-up approach when designing the bottom levels.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("Agile design")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"agile-design"}},[_c('span',{staticClass:"anchor",attrs:{"id":"agile-design"}}),_c('span',[_v("Agile design")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#agile-design","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_c('em',[_v("Agile design")]),_v(" can be contrasted with "),_c('em',[_v("full upfront design")]),_v(" in the following way")]),_v(":")]),_v(" "),_c('blockquote',[_c('p',[_c('strong',[_v("Agile designs are emergent, they’re not defined up front.")]),_v(" Your overall system design will emerge over time, evolving to fulfill new requirements and take advantage of new technologies as appropriate. Although you will often do "),_c('strong',[_v("some initial architectural modeling at the very beginning")]),_v(" of a project, this will be just enough to get your team going. This approach does not produce a fully documented set of models in place before you may begin coding. "),_c('sub',[_v("-- adapted from "),_c('a',{attrs:{"href":"http://agilemodeling.com/essays/agileDesign.htm"}},[_v("agilemodeling.com")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

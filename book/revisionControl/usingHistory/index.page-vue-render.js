@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → Revision Control →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"using-history"}},[_c('span',{staticClass:"anchor",attrs:{"id":"using-history"}}),_c('span',[_v("Using history")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"using-history"}},[_c('span',{staticClass:"anchor",attrs:{"id":"using-history"}}),_c('span',[_v("Using history")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#using-history","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Each commit in a repo is a recorded point in the history of the project that is uniquely identified by an auto-generated "),_c('mark',[_v("hash")])]),_v(" e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("a16043703f28e5b3dab95915f5c5e5bf4fdc5fc1")]),_v(".")])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("To restore the state of the working d
 with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot-name":"content"}},[_c('div',[_c('div',[_c('p',[_c('strong',[_v("RCS")]),_v(":  "),_c('strong',[_v("Revision control software")]),_v(" are the software tools that automate the process of "),_c('em',[_v("Revision Control")]),_v(" i.e. managing revisions of software artifacts.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

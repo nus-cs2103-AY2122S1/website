@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Paradigms → OOP → Associations →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"association-classes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"association-classes"}}),_c('span',[_v("Association classes")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"association-classes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"association-classes"}}),_c('span',[_v("Association classes")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#association-classes","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("An "),_c('em',[_v("association class")]),_v(" represents additional information about an association.")]),_v(" It is a normal class but plays a special role from a design point of view.")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("An "),_c('em',[_v("association class"
 with(this){return _c('h5',{attrs:{"id":"implementing-association-classes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"implementing-association-classes"}}),_v("Implementing association classes"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#implementing-association-classes","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

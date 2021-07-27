@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Test Case Design → Introduction →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"positive-versus-negative-test-cases"}},[_c('span',{staticClass:"anchor",attrs:{"id":"positive-versus-negative-test-cases"}}),_c('span',[_v("Positive versus negative test cases")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"positive-versus-negative-test-cases"}},[_c('span',{staticClass:"anchor",attrs:{"id":"positive-versus-negative-test-cases"}}),_c('span',[_v("Positive versus negative test cases")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#positive-versus-negative-test-cases","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A "),_c('em',[_v("positive test case")]),_v(" is when the test is designed to produce an expected/valid behavior. On the other hand, a "),_c('em',[_v("negative test case")]),_v(" is designed to produce a behavior that indicates an invalid/unexpected situation, such as an error message.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → UML → Activity Diagrams →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"swimlanes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"swimlanes"}}),_c('span',[_v("Swimlanes")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"swimlanes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"swimlanes"}}),_c('span',[_v("Swimlanes")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#swimlanes","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("It is possible to "),_c('em',[_v("partition")]),_v(" an activity diagram to show who is doing which action. Such partitioned activity diagrams are sometime called "),_c('em',[_v("swimlane diagrams")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

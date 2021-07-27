@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Modelling → Modelling Structure →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"object-oriented-domain-models"}},[_c('span',{staticClass:"anchor",attrs:{"id":"object-oriented-domain-models"}}),_c('span',[_v("Object oriented domain models")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"object-oriented-domain-models"}},[_c('span',{staticClass:"anchor",attrs:{"id":"object-oriented-domain-models"}}),_c('span',[_v("Object oriented domain models")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#object-oriented-domain-models","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('p',[_v("The analysis process for identifying objects and object classes is recognized as one of the most difficult areas of object-oriented development. "),_c('sub',[_v("--"),_c('a',{attrs:{"href":"http://www.software-engin.com/"}},[_v("Ian Sommerville, in the book "),_c('em',[_v("Software Engineering")])])])])])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("OODMs represents the class "),_c('em'
 with(this){return _c('p',[_c('strong',[_v("OODM notation is similar to class diagram notation but omit methods and navigability.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

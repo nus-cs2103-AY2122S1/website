@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → Generics →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"what-are-generics"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what-are-generics"}}),_c('span',[_v("What are Generics?")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"what-are-generics"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what-are-generics"}}),_c('span',[_v("What are Generics?")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what-are-generics","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Given below is an extract from the "),_c('small',[_c('span',{staticStyle:{"opacity":"0.5"}},[_c('span',{staticClass:"badge badge-secondary"},[_v("-- Java Tutorial")])])]),_v(", with some adaptations.")])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("You can use polymorphism to write cod
 with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot-name":"_content"}},[_v("In a method "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("getName(Person p)")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("p")]),_v(" is a "),_c('em',[_v("formal parameter")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

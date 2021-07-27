@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Quality Assurance → Introduction →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"validation-versus-verification"}},[_c('span',{staticClass:"anchor",attrs:{"id":"validation-versus-verification"}}),_c('span',[_v("Validation versus verification")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"validation-versus-verification"}},[_c('span',{staticClass:"anchor",attrs:{"id":"validation-versus-verification"}}),_c('span',[_v("Validation versus verification")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#validation-versus-verification","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_c('strong',[_v("Quality Assurance = Validation + Verification")])]),_v(" "),_c('p',[_v("QA involves checking two aspects:")]),_v(" "),_c('ol',[_c('li',[_v("Validation: are you "),_c('em',[_v("building the right system")]),_v(" i.e., are the requirements correct?")]),_v(" "),_c('li',[_v("Verification: are you "),_c('em',[_v("building the system right")]),_v(" i.e., are the requirements implemented correctly?")])]),_v(" "),_c('p',[_v("Whether something belongs under validation or verification is not that important. What is more important is that both are done, instead of limiting to only verification (i.e., remember that the requirements can be wrong too).")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

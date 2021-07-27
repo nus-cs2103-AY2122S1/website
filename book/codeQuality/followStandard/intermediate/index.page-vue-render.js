@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Code Quality → Style →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"intermediate"}},[_c('span',{staticClass:"anchor",attrs:{"id":"intermediate"}}),_c('span',[_v("Intermediate")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"intermediate"}},[_c('span',{staticClass:"anchor",attrs:{"id":"intermediate"}}),_c('span',[_v("Intermediate")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#intermediate","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_v("Go through the "),_c('a',{attrs:{"href":"https://se-education.org/guides/conventions/java/intermediate.html"}},[_v("Java coding standard at @SE-EDU")]),_v(" and learn the "),_c('em',[_v("intermediate")]),_v(" style rules.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → Project Planning →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"issue-trackers"}},[_c('span',{staticClass:"anchor",attrs:{"id":"issue-trackers"}}),_c('span',[_v("Issue trackers")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"issue-trackers"}},[_c('span',{staticClass:"anchor",attrs:{"id":"issue-trackers"}}),_c('span',[_v("Issue trackers")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#issue-trackers","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Keeping track of project tasks "),_c('span',{staticClass:"dimmed"},[_v("(who is doing what, which tasks are ongoing, which tasks are done etc.)")]),_v(" is an essential part of project management. In small projects, it may be possible to keep track of tasks using simple tools such as online spreadsheets or general-purpose/light-weight task tracking tools such as Trello. Bigger projects need more sophisticated task tracking tools.")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_v("Keeping track of project tasks "),_c('span',{stati
 with(this){return _c('p',[_c('strong',[_v("Issue trackers (sometimes called bug trackers) are commonly used to track task assignment and progress.")]),_v(" Most online project management software such as GitHub, SourceForge, and BitBucket come with an integrated issue tracker.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

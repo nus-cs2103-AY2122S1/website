@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Requirements → Gathering Requirements →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"focus-groups"}},[_c('span',{staticClass:"anchor",attrs:{"id":"focus-groups"}}),_c('span',[_v("Focus groups")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"focus-groups"}},[_c('span',{staticClass:"anchor",attrs:{"id":"focus-groups"}}),_c('span',[_v("Focus groups")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#focus-groups","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('img',{attrs:{"src":"https://media.defense.gov/2012/Apr/11/2000162334/670/394/0/120403-F-PR861-011.JPG","width":"400"}}),_c('br'),_v(" "),_c('sub',[_v("["),_c('a',{attrs:{"href":"http://www.hanscom.af.mil/News/Article-Display/Article/380048/caring-for-people-forum-identifies-issues/"}},[_v("source")]),_v("]")])])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('img',{attrs:{"src":"https://media.defense.gov/2012
 with(this){return _c('p',[_c('strong',[_v("Focus groups are a kind of informal interview within an interactive group setting.")]),_v(" A group of people (e.g. potential users, beta testers) are asked about their understanding of a specific issue, process, product, advertisement, etc.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

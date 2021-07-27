@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Modelling → Modelling Structure →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"oo-structures"}},[_c('span',{staticClass:"anchor",attrs:{"id":"oo-structures"}}),_c('span',[_v("OO structures")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"oo-structures"}},[_c('span',{staticClass:"anchor",attrs:{"id":"oo-structures"}}),_c('span',[_v("OO structures")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#oo-structures","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("An OO solution is basically a network of objects interacting with each other. Therefore, "),_c('strong',[_v("it is useful to be able to model how the relevant objects are 'networked' together")]),_v(" inside a software "),_c('span',{staticClass:"dimmed"},[_v("i.e. how the objects are connected together")]),_v(".")])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_v("UML "),_c('em',[_v("Object Diagrams")]),_v(" are u
 with(this){return _c('div',[_c('div')])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

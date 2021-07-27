@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → Project Planning →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"work-breakdown-structure"}},[_c('span',{staticClass:"anchor",attrs:{"id":"work-breakdown-structure"}}),_c('span',[_v("Work breakdown structure")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"work-breakdown-structure"}},[_c('span',{staticClass:"anchor",attrs:{"id":"work-breakdown-structure"}}),_c('span',[_v("Work breakdown structure")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#work-breakdown-structure","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A "),_c('em',[_v("Work Breakdown Structure (WBS)")]),_v(" depicts information about tasks and their details in terms of subtasks.")]),_v(" When managing projects, it is useful to divide the total work into smaller, well-defined units. Relatively complex tasks can be further split into subtasks. In complex projects, a WBS can also include prerequisite tasks and effort estimates for each task.")])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("The effort is traditionally measured 
 with(this){return _c('p',[_c('strong',[_v("All tasks should be well-defined.")]),_v(" In particular, it should be clear as to when the task will be considered "),_c('em',[_v("done")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

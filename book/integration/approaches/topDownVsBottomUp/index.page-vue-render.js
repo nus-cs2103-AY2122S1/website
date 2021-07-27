@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Integration → Approaches →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"top-down-versus-bottom-up-integration"}},[_c('span',{staticClass:"anchor",attrs:{"id":"top-down-versus-bottom-up-integration"}}),_c('span',[_v("Top-down versus bottom-up integration")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"top-down-versus-bottom-up-integration"}},[_c('span',{staticClass:"anchor",attrs:{"id":"top-down-versus-bottom-up-integration"}}),_c('span',[_v("Top-down versus bottom-up integration")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#top-down-versus-bottom-up-integration","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Based on the order in which components are integrated, incremental integration can be done in three ways.")])])}
@@ -41,6 +41,6 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Sandwich")]),_v(" integratio
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-powerpoint"},[_c('iframe',{attrs:{"type":"text/html","src":"https://onedrive.live.com/embed?cid=A5AF047C4CAD67AB&resid=A5AF047C4CAD67AB%212318&authkey=AD27jxfKqq3nqpQ&em=2&action=embedview&wdAr=1.3333333333333333","frameborder":"0","width":"610","height":"481","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

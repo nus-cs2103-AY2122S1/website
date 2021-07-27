@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design Approaches → Agile Design →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"agile-design"}},[_c('span',{staticClass:"anchor",attrs:{"id":"agile-design"}}),_c('span',[_v("Agile design")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"agile-design"}},[_c('span',{staticClass:"anchor",attrs:{"id":"agile-design"}}),_c('span',[_v("Agile design")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#agile-design","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_c('strong',[_c('em',[_v("Agile design")]),_v(" can be contrasted with "),_c('em',[_v("full upfront design")]),_v(" in the following way")]),_v(":")]),_v(" "),_c('blockquote',[_c('p',[_c('strong',[_v("Agile designs are emergent, they’re not defined up front.")]),_v(" Your overall system design will emerge over time, evolving to fulfill new requirements and take advantage of new technologies as appropriate. Although you will often do "),_c('strong',[_v("some initial architectural modeling at the very beginning")]),_v(" of a project, this will be just enough to get your team going. This approach does not produce a fully documented set of models in place before you may begin coding. "),_c('sub',[_v("-- adapted from "),_c('a',{attrs:{"href":"http://agilemodeling.com/essays/agileDesign.htm"}},[_v("agilemodeling.com")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Refactoring →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how"}}),_c('span',[_v("How")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how"}}),_c('span',[_v("How")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#how","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('ol',[_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/consolidateConditionalExpression.html"}},[_v("Consolidate Conditional Expression")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/decomposeConditional.html"}},[_v("Decompose Conditional")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/inlineMethod.html"}},[_v("Inline Method")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/removeDoubleNegative.html"}},[_v("Remove Double Negative")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/replaceMagicLiteral.html"}},[_v("Replace Magic Literal")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html"}},[_v("Replace Nested Conditional with Guard Clauses")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/replaceParameterWithExplicitMethods.html"}},[_v("Replace Parameter with Explicit Methods")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/reverseConditional.html"}},[_v("Reverse Conditional")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/splitLoop.html"}},[_v("Split Loop")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://refactoring.com/catalog/splitTemporaryVariable.html"}},[_v("Split Temporary Variable")])])])}
@@ -26,6 +26,6 @@ with(this){return _c('ol',[_c('li',[_c('a',{attrs:{"href":"https://refactoring.c
 with(this){return _c('div',[_c('div')])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

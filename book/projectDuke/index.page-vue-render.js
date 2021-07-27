@@ -14,7 +14,7 @@ with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-w
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span')])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('h1',{attrs:{"id":"project-duke"}},[_c('span',{staticClass:"anchor",attrs:{"id":"project-duke"}}),_c('span',[_v("Project Duke")])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('h1',{attrs:{"id":"project-duke"}},[_c('span',{staticClass:"anchor",attrs:{"id":"project-duke"}}),_c('span',[_v("Project Duke")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#project-duke","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h1',{attrs:{"id":"project-duke-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"project-duke-2"}}),_v("Project Duke"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#project-duke-2","onclick":"event.stopPropagation()"}})])}
@@ -551,6 +551,6 @@ with(this){return _c('h3',{attrs:{"id":"d-merchandise"}},[_c('span',{staticClass
 with(this){return _c('p',[_v("Support managing info about merchandise "),_c('span',{staticClass:"dimmed"},[_v("e.g., a property agent to keep track of properties, a collector of stamps keep track of items in the collection")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

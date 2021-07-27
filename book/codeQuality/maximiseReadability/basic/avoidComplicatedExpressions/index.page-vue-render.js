@@ -17,12 +17,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Code Quality → Readability → Basic →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"avoid-complicated-expressions"}},[_c('span',{staticClass:"anchor",attrs:{"id":"avoid-complicated-expressions"}}),_c('span',[_v("Avoid complicated expressions")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"avoid-complicated-expressions"}},[_c('span',{staticClass:"anchor",attrs:{"id":"avoid-complicated-expressions"}}),_c('span',[_v("Avoid complicated expressions")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#avoid-complicated-expressions","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('p',[_c('span',[_c('span',{staticClass:"fas fa-quote-left",attrs:{"aria-hidden":"true"}})]),_v(" The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague. "),_c('span',[_c('span',{staticClass:"fas fa-quote-right",attrs:{"aria-hidden":"true"}})]),_v(" "),_c('sub',[_v("-- Edsger Dijkstra")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

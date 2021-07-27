@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → SDLC Process Models →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"xp"}},[_c('span',{staticClass:"anchor",attrs:{"id":"xp"}}),_c('span',[_v("XP")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"xp"}},[_c('span',{staticClass:"anchor",attrs:{"id":"xp"}}),_c('span',[_v("XP")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#xp","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("The following description was adapted from the "),_c('a',{attrs:{"href":"http://www.extremeprogramming.org"}},[_v("XP home page")]),_v(", emphasis added:")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_v("The following description was adapted from the "),
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Pair programming, CRC cards, project velocity")]),_v(", and "),_c('em',[_v("standup meetings")]),_v(" are some interesting topics related to XP.")]),_v(" Refer to "),_c('a',{attrs:{"href":"http://extremeprogramming.org"}},[_v("extremeprogramming.org")]),_v(" to find out more about XP.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

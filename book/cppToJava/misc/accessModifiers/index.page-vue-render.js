@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → Miscellaneous Topics →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"access-modifiers"}},[_c('span',{staticClass:"anchor",attrs:{"id":"access-modifiers"}}),_c('span',[_v("Access modifiers")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"access-modifiers"}},[_c('span',{staticClass:"anchor",attrs:{"id":"access-modifiers"}}),_c('span',[_v("Access modifiers")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#access-modifiers","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Access level modifiers determine whether other classes can use a particular field or invoke a particular method.")])])}
@@ -32,6 +32,6 @@ with(this){return _c('tbody',[_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"clas
 with(this){return _c('ol',[_c('li',[_v("When you use classes that come from another source, such as the classes in the Java platform, access levels determine which members of those classes your own classes can use.")]),_v(" "),_c('li',[_v("When you write a class, you need to decide what access level every member variable and every method in your class should have.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

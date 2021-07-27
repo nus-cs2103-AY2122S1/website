@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → IntelliJ IDEA →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"productivity-shortcuts"}},[_c('span',{staticClass:"anchor",attrs:{"id":"productivity-shortcuts"}}),_c('span',[_v("Productivity shortcuts")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"productivity-shortcuts"}},[_c('span',{staticClass:"anchor",attrs:{"id":"productivity-shortcuts"}}),_c('span',[_v("Productivity shortcuts")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#productivity-shortcuts","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube"},[_c('iframe',{attrs:{"type":"text/html","src":"//www.youtube.com/embed/KsVWdGOnHZU","frameborder":"0","width":"640","height":"390","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
@@ -26,6 +26,6 @@ with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube"},[_c('iframe',{attrs:{"type":"text/html","src":"//www.youtube.com/embed/EvXpgL2iho4","frameborder":"0","width":"640","height":"390","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

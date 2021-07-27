@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Requirements → Specifying Requirements → Use Cases →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"usage"}},[_c('span',{staticClass:"anchor",attrs:{"id":"usage"}}),_c('span',[_v("Usage")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"usage"}},[_c('span',{staticClass:"anchor",attrs:{"id":"usage"}}),_c('span',[_v("Usage")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#usage","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("You can use actor generalization in use case diagrams")]),_v(" using a symbol similar to that of UML notation for inheritance.")])}
@@ -44,6 +44,6 @@ with(this){return _c('ul',[_c('li',[_v("Because they use a simple notation and p
 with(this){return _c('p',[_c('strong',[_v("One of the main disadvantages of use cases is that they are not good for capturing requirements that do not involve a user interacting with the system.")]),_v(" Hence, they should not be used as the sole means to specify requirements.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

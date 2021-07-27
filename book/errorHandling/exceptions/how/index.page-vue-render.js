@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Error Handling → Exceptions →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how"}}),_c('span',[_v("How")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how"}}),_c('span',[_v("How")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#how","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Most languages allow code that encountered an \"exceptional\" situation to encapsulate details of the situation in an "),_c('em',[_v("Exception")]),_v(" object and "),_c('em',[_v("throw")]),_v("/"),_c('em',[_v("raise")]),_v(" that object so that another piece of code can "),_c('em',[_v("catch")]),_v(" it and deal with it.")]),_v(" This is especially useful when the code that encountered the unusual situation does not know how to deal with it.")])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("The exception handler chosen is said 
 with(this){return _c('ul',[_c('li',[_v("The ability to propagate error information through the call stack.")]),_v(" "),_c('li',[_v("The separation of code that deals with 'unusual' situations from the code that does the 'usual' work.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

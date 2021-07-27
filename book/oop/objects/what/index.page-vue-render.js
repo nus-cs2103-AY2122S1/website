@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Paradigms → OOP → Objects →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what"}}),_c('span',[_v("What")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"what"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what"}}),_c('span',[_v("What")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('p',[_v("Every object has both state (data) and behavior (operations on data). In that, they’re not much different\nfrom ordinary physical objects. It’s easy to see how a mechanical device, such as a pocket watch or a piano,\nembodies both state and behavior. But almost anything that’s designed to do a job does, too. Even simple things\nwith no moving parts such as an ordinary bottle combine state (how full the bottle is, whether or not it’s open,\nhow warm its contents are) with behavior (the ability to dispense its contents at various flow rates, to be opened\nor closed, to withstand high or low temperatures).")]),_v(" "),_c('p',[_v("It’s this resemblance to real things that gives objects much of their power and appeal. They can not only model\ncomponents of real systems, but equally as well fulfill assigned roles as components in software systems.")]),_v(" "),_c('p',[_c('sub',[_v("-- "),_c('a',{attrs:{"href":"https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/OOP_ObjC/"}},[_v("Object-Oriented Programming with Objective-C")]),_v(", Apple ")])])])}
@@ -44,6 +44,6 @@ with(this){return _c('ul',[_c('li',[_v("an interface through which other objects
 with(this){return _c('p',[_c('strong',[_v("Objects interact by sending messages.")]),_v(" Both real world and virtual world object interactions can be viewed as objects sending messages to each other. The message can result in the sender object receiving a response and/or the receiver object’s state being changed. Furthermore, the result can vary based on which object received the message, even if the message is identical "),_c('span',{staticClass:"dimmed"},[_v("(see rows 1 and 2 in the example below)")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

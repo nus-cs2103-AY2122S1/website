@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Modelling → Modelling Behaviors\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"state-machine-diagrams"}},[_c('span',{staticClass:"anchor",attrs:{"id":"state-machine-diagrams"}}),_c('span',[_v("State machine diagrams")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"state-machine-diagrams"}},[_c('span',{staticClass:"anchor",attrs:{"id":"state-machine-diagrams"}}),_c('span',[_v("State machine diagrams")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#state-machine-diagrams","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A "),_c('em',[_v("State Machine Diagram")]),_v(" models state-dependent behavior.")])])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_v("Occasionally, objects may exhibit state-dependent 
 with(this){return _c('p',[_v("Occasionally, objects may exhibit state-dependent behavior that is complex enough such that it needs to be captured into a separate model. Such state-dependent behavior can be modelled using UML "),_c('em',[_v("state machine diagrams")]),_v(" (SMD for short, sometimes also called ‘state charts’, ‘state diagrams’ or ‘state machines’).")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

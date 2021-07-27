@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Modelling → Modelling Structure →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"class-diagrams-intermediate"}},[_c('span',{staticClass:"anchor",attrs:{"id":"class-diagrams-intermediate"}}),_c('span',[_v("Class diagrams - intermediate")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"class-diagrams-intermediate"}},[_c('span',{staticClass:"anchor",attrs:{"id":"class-diagrams-intermediate"}}),_c('span',[_v("Class diagrams - intermediate")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#class-diagrams-intermediate","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A class diagram can also show different types of relationships between classes: inheritance, compositions, aggregations, dependencies.")])])}
@@ -47,6 +47,6 @@ with(this){return _c('h5',{attrs:{"id":"modeling-abstract-classes"}},[_c('span',
 with(this){return _c('h5',{attrs:{"id":"modeling-interfaces"}},[_c('span',{staticClass:"anchor",attrs:{"id":"modeling-interfaces"}}),_v("Modeling interfaces"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#modeling-interfaces","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

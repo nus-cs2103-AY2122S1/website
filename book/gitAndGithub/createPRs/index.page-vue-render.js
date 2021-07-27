@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"creating-prs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"creating-prs"}}),_c('span',[_v("Creating PRs")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"creating-prs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"creating-prs"}}),_c('span',[_v("Creating PRs")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#creating-prs","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("1. Fork")]),_v(" the repo onto your GitHub account.")])}
@@ -65,6 +65,6 @@ with(this){return _c('p',[_c('strong',[_v("To create another PR")]),_v(" while t
 with(this){return _c('p',[_c('strong',[_v("It is possible to create PRs within the same repo")]),_v(" e.g., you can create a PR from branch "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("feature-x")]),_v(" to the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("master")]),_v(" branch, within the same repo. Doing so will allow the code to be reviewed by other developers (using PR review mechanism) before it is merged.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

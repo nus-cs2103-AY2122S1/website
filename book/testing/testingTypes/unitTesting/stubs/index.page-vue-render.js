@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Testing → Unit Testing →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"stubs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"stubs"}}),_c('span',[_v("Stubs")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"stubs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"stubs"}}),_c('span',[_v("Stubs")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#stubs","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('strong',[_v("A proper unit test requires the "),_c('em',[_v("unit")]),_v(" to be tested "),_c('mark',[_v("in isolation")])])}
@@ -29,6 +29,6 @@ with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot
 with(this){return _c('p',[_v("In addition to Stubs, there are other type of replacements you can use during testing, e.g. "),_c('em',[_v("Mocks")]),_v(", "),_c('em',[_v("Fakes")]),_v(", "),_c('em',[_v("Dummies")]),_v(", "),_c('em',[_v("Spies")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

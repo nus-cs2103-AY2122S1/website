@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → Miscellaneous Topics →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"file-access"}},[_c('span',{staticClass:"anchor",attrs:{"id":"file-access"}}),_c('span',[_v("File access")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"file-access"}},[_c('span',{staticClass:"anchor",attrs:{"id":"file-access"}}),_c('span',[_v("File access")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#file-access","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("You can use the "),_c('a',{attrs:{"href":"https://docs.oracle.com/javase/9/docs/api/java/io/File.html"}},[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("java.io.File")])]),_v(" class to represent a file object")]),_v(". It can be used to access properties of the file object.")])}
@@ -44,6 +44,6 @@ with(this){return _c('p',[_c('strong',[_v("The "),_c('a',{attrs:{"href":"https:/
 with(this){return _c('p',[_v("The techniques above are good enough to manipulate simple text files. Note that "),_c('strong',[_v("it is also possible to "),_c('a',{attrs:{"href":"https://www.tutorialspoint.com/java/java_files_io.htm"}},[_v("perform file I/O operations using other classes")])]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

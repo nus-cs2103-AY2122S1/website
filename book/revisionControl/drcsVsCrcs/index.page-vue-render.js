@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → Revision Control →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"drcs-vs-crcs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"drcs-vs-crcs"}}),_c('span',[_v("DRCS vs CRCS")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"drcs-vs-crcs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"drcs-vs-crcs"}}),_c('span',[_v("DRCS vs CRCS")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#drcs-vs-crcs","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("RCS can be done in two ways: the "),_c('em',[_v("centralized")]),_v(" way and the "),_c('em',[_v("distributed")]),_v(" way.")])])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("Centralized RCS (CRCS for short) uses
 with(this){return _c('p',[_c('strong',[_v("Distributed RCS (DRCS for short, also known as Decentralized RCS) allows multiple remote repos")]),_v(" and pulling and pushing can be done among them in arbitrary ways. The workflow can vary differently from team to team.  For example, every team member can have his/her own remote repository in addition to their own local repository, as shown in the diagram below. Git and Mercurial are some prominent RCS tools that support the distributed approach.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

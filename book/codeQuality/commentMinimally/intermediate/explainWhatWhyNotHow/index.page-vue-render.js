@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Code Quality → Comments → Intermediate →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"explain-what-and-why-not-how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"explain-what-and-why-not-how"}}),_c('span',[_v("Explain WHAT and WHY, not HOW")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"explain-what-and-why-not-how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"explain-what-and-why-not-how"}}),_c('span',[_v("Explain WHAT and WHY, not HOW")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#explain-what-and-why-not-how","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Comments should explain the "),_c('em',[_v("what")]),_v(" and "),_c('em',[_v("why")]),_v(" aspects of the code, rather than the "),_c('em',[_v("how")]),_v(" aspect.")])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_c('span',{staticStyle:{"color":"green"}},[_c('span',[
 with(this){return _c('p',[_c('span',{staticStyle:{"color":"red"}},[_c('span',[_c('span',{staticClass:"fas fa-times",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('strong',[_v("How")]),_v(": The explanation for how the code works. This should already be apparent from the code, if the code is self-explanatory. Adding comments to explain the same thing is redundant.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

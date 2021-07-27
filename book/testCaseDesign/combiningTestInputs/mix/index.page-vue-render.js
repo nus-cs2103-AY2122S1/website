@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Test Case Design → Combining Test Inputs →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"mix"}},[_c('span',{staticClass:"anchor",attrs:{"id":"mix"}}),_c('span',[_v("Mix")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"mix"}},[_c('span',{staticClass:"anchor",attrs:{"id":"mix"}}),_c('span',[_v("Mix")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#mix","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("To get the first cut of test cases, let’s apply the "),_c('em',[_v("at least once")]),_v(" strategy.")])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_v("Next, you have to apply the "),_c('em',[_v("no mor
 with(this){return _c('p',[_v("Next, you can assume that there is a dependency between the inputs "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("examScore")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("isAbsent")]),_v(" such that an absent student can only have "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("examScore=0")]),_v(". To cater for the hidden invalid case arising from this, you can add a new test case where "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("isAbsent=true")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("examScore!=0")]),_v(". In addition, test cases 3-6.2 should have "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("isAbsent=false")]),_v(" so that the input remains valid.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

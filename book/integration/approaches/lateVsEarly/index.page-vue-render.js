@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Integration → Approaches →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"late-and-one-time-versus-early-and-frequent"}},[_c('span',{staticClass:"anchor",attrs:{"id":"late-and-one-time-versus-early-and-frequent"}}),_c('span',[_v("Late and one time versus early and frequent")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"late-and-one-time-versus-early-and-frequent"}},[_c('span',{staticClass:"anchor",attrs:{"id":"late-and-one-time-versus-early-and-frequent"}}),_c('span',[_v("Late and one time versus early and frequent")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#late-and-one-time-versus-early-and-frequent","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("In terms of timing and frequency, there are two general approaches to integration: "),_c('em',[_v("late and one-time")]),_v(", "),_c('em',[_v("early and frequent")]),_v(".")])])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Early and frequent")]),_v(":
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-powerpoint"},[_c('iframe',{attrs:{"type":"text/html","src":"https://onedrive.live.com/embed?cid=A5AF047C4CAD67AB&resid=A5AF047C4CAD67AB%212312&authkey=AHtrsZMwQmNcyAE&em=2&action=embedview&wdAr=1.3333333333333333","frameborder":"0","width":"610","height":"481","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

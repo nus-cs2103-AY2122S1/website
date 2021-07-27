@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Testing → Test Automation →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"automated-testing-of-guis"}},[_c('span',{staticClass:"anchor",attrs:{"id":"automated-testing-of-guis"}}),_c('span',[_v("Automated testing of GUIs")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"automated-testing-of-guis"}},[_c('span',{staticClass:"anchor",attrs:{"id":"automated-testing-of-guis"}}),_c('span',[_v("Automated testing of GUIs")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#automated-testing-of-guis","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("If a software product has a GUI (Graphical User Interface) component, all product-level testing (i.e. the types of testing mentioned above) need to be done using the GUI. However, "),_c('strong',[_v("testing the GUI is much harder than testing the CLI (Command Line Interface) or API")]),_v(", for the following reasons:")])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_c('strong',[_v("Moving as much logic as possible out 
 with(this){return _c('p',[_c('strong',[_v("There are testing tools that can automate GUI testing.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

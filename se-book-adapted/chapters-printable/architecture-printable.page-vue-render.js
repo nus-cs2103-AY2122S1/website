@@ -11,13 +11,13 @@ with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-prin
 with(this){return _c('div',{staticClass:"w-100 p-1 bg-success text-center text-white d-print-none",attrs:{"tags":"m--cs2103 m--cs2113 m--te3201"}},[_c('span',[_v("This module will be "),_c('strong',[_v("fully online")]),_v(" this semester. There is no need for on-campus presence.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"software-architecture"}},[_c('span',{staticClass:"anchor",attrs:{"id":"software-architecture"}}),_c('span',[_v("Software architecture")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"software-architecture"}},[_c('span',{staticClass:"anchor",attrs:{"id":"software-architecture"}}),_c('span',[_v("Software architecture")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#software-architecture","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('p',[_v("The software architecture of a program or computing system is the structure or structures of the system, which comprise software elements, the externally visible properties of those elements, and the relationships among them. Architecture is concerned with the public side of interfaces; private details of elements—details having to do solely with internal implementation—are not architectural.\n"),_c('sub',[_v("-- "),_c('em',[_v("Software Architecture in Practice (2nd edition)")]),_v(", Bass, Clements, and Kazman")])])])}
@@ -29,7 +29,7 @@ with(this){return _c('p',[_c('strong',[_v("The software architecture shows the o
 with(this){return _c('p',[_c('strong',[_v("The architecture is typically designed by the "),_c('em',[_v("software architect")])]),_v(", who provides the technical vision of the system and makes high-level (i.e. architecture-level) technical decisions about the project.")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Architecture diagrams")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"architecture-diagrams"}},[_c('span',{staticClass:"anchor",attrs:{"id":"architecture-diagrams"}}),_c('span',[_v("Architecture diagrams")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#architecture-diagrams","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Architecture diagrams are free-form diagrams.")]),_v(" There is no universally adopted standard notation for architecture diagrams. Any symbols that reasonably describe the architecture may be used.")])}
@@ -38,48 +38,48 @@ with(this){return _c('p',[_c('strong',[_v("Architecture diagrams are free-form d
 with(this){return _c('ul',[_c('li',[_c('p',[_v("Minimize the variety of symbols. If the symbols you choose do not have widely-understood meanings "),_c('span',{staticClass:"dimmed"},[_v("e.g. A drum symbol is widely-understood as representing a database")]),_v(", explain their meaning.")])]),_v(" "),_c('li',[_c('p',[_v("Avoid the indiscriminate use of double-headed arrows to show interactions between components.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("Architectural styles")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"architectural-styles"}},[_c('span',{staticClass:"anchor",attrs:{"id":"architectural-styles"}}),_c('span',[_v("Architectural styles")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#architectural-styles","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{attrs:{"id":"-5"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-5"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-5","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h3',{attrs:{"id":"introduction-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction-2","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('strong',[_v("Software architectures follow various high-level styles (aka "),_c('em',[_v("architectural patterns")]),_v(")")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{attrs:{"id":"-6"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-6"}}),_c('span',[_v("N-tier architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-6","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h3',{attrs:{"id":"n-tier-architectural-style"}},[_c('span',{staticClass:"anchor",attrs:{"id":"n-tier-architectural-style"}}),_c('span',[_v("N-tier architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#n-tier-architectural-style","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("In the "),_c('em',[_v("n-tier")]),_v(" style, higher layers make use of services provided by lower layers.")]),_v(" Lower layers are independent of higher layers. Other names: "),_c('em',[_v("multi-layered")]),_v(", "),_c('em',[_v("layered")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{attrs:{"id":"-7"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-7"}}),_c('span',[_v("Client-server architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-7","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h3',{attrs:{"id":"client-server-architectural-style"}},[_c('span',{staticClass:"anchor",attrs:{"id":"client-server-architectural-style"}}),_c('span',[_v("Client-server architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#client-server-architectural-style","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The "),_c('em',[_v("client-server")]),_v(" style has at least one component playing the role of a server and at least one client component accessing the services of the server.")]),_v(" This is an architectural style used often in distributed applications.")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{attrs:{"id":"-8"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-8"}}),_c('span',[_v("Transaction processing architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-8","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h3',{attrs:{"id":"transaction-processing-architectural-style"}},[_c('span',{staticClass:"anchor",attrs:{"id":"transaction-processing-architectural-style"}}),_c('span',[_v("Transaction processing architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#transaction-processing-architectural-style","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The "),_c('em',[_v("transaction processing")]),_v(" style divides the workload of the system down to a number of "),_c('em',[_v("transactions")]),_v(" which are then given to a "),_c('em',[_v("dispatcher")]),_v(" that controls the execution of each transaction.")]),_v(" Task queuing, ordering, undo etc. are handled by the dispatcher.")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{attrs:{"id":"-9"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-9"}}),_c('span',[_v("Service-oriented architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-9","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h3',{attrs:{"id":"service-oriented-architectural-style"}},[_c('span',{staticClass:"anchor",attrs:{"id":"service-oriented-architectural-style"}}),_c('span',[_v("Service-oriented architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#service-oriented-architectural-style","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The "),_c('em',[_v("service-oriented architecture")]),_v(" (SOA) style builds applications by combining functionalities packaged as "),_c('em',[_v("programmatically accessible services")])]),_v(". SOA aims to achieve interoperability between distributed services, which may not even be implemented using the same programming language. A common way to implement SOA is through the use of "),_c('em',[_v("XML web services")]),_v(" where the web is used as the medium for the services to interact, and XML is used as the language of communication between service providers and service users.")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{attrs:{"id":"-10"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-10"}}),_c('span',[_v("Event-driven architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-10","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h3',{attrs:{"id":"event-driven-architectural-style"}},[_c('span',{staticClass:"anchor",attrs:{"id":"event-driven-architectural-style"}}),_c('span',[_v("Event-driven architectural style")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#event-driven-architectural-style","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h3',{attrs:{"id":"-11"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-11"}}),_c('span',[_v("More")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-11","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h3',{attrs:{"id":"more"}},[_c('span',{staticClass:"anchor",attrs:{"id":"more"}}),_c('span',[_v("More")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#more","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Most applications use a mix of these architectural styles.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

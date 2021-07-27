@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"tag-naming-commits"}},[_c('span',{staticClass:"anchor",attrs:{"id":"tag-naming-commits"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tag")]),_v(": Naming commits")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"tag-naming-commits"}},[_c('span',{staticClass:"anchor",attrs:{"id":"tag-naming-commits"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tag")]),_v(": Naming commits")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#tag-naming-commits","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Each Git commit is uniquely identified by a hash")]),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("d670460b4b4aece5915caf5c68d12f560a9fe3e4")]),_v(". As you can imagine, using such an identifier is not very convenient for our day-to-day use. As a solution, Git allows adding a more human-readable "),_c('em',[_v("tag")]),_v(" to a commit e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("v1.0-beta")]),_v(".")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("Each Git commit is uniquely identifie
 with(this){return _c('p',[_v("Here's how you can tag a commit in a local repo (e.g. in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("samplerepo-things")]),_v(" repo):")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Test Case Design → Combining Test Inputs →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"test-input-combination-strategies"}},[_c('span',{staticClass:"anchor",attrs:{"id":"test-input-combination-strategies"}}),_c('span',[_v("Test input combination strategies")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"test-input-combination-strategies"}},[_c('span',{staticClass:"anchor",attrs:{"id":"test-input-combination-strategies"}}),_c('span',[_v("Test input combination strategies")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#test-input-combination-strategies","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The "),_c('em',[_v("all combinations")]),_v(" strategy generates test cases for each unique combination of test inputs.")])])}
@@ -35,6 +35,6 @@ with(this){return _c('p',[_c('strong',[_v("The "),_c('em',[_v("random")]),_v(" s
 with(this){return _c('p',[_c('strong',[_v("There are other strategies that can be used too.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

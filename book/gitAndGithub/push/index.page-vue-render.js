@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"push-uploading-data-to-other-repos"}},[_c('span',{staticClass:"anchor",attrs:{"id":"push-uploading-data-to-other-repos"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("push")]),_v(": Uploading data to other repos")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"push-uploading-data-to-other-repos"}},[_c('span',{staticClass:"anchor",attrs:{"id":"push-uploading-data-to-other-repos"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("push")]),_v(": Uploading data to other repos")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#push-uploading-data-to-other-repos","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("1. Fork")]),_v(" an existing GitHub repo (e.g., "),_c('a',{attrs:{"href":"https://github.com/se-edu/samplerepo-things"}},[_v("samplerepo-things")]),_v(") to your GitHub account.")])}
@@ -47,6 +47,6 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Login to your GitHub account and
 with(this){return _c('p',[_c('strong',[_v("3. Push the repo")]),_v(" to the remote.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

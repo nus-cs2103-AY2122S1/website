@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → Miscellaneous Topics →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"varargs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"varargs"}}),_c('span',[_v("Varargs")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"varargs"}},[_c('span',{staticClass:"anchor",attrs:{"id":"varargs"}}),_c('span',[_v("Varargs")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#varargs","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Variable Arguments (Varargs) is a "),_c('em',[_v("syntactic sugar")]),_v(" type feature that allows writing a method that can take a variable number of arguments.")])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('span',[_c('span',{staticClass:"fas fa-paperclip",a
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"http://docs.oracle.com/javase/1.5.0/docs/guide/language/varargs.html"}},[_v("Java Varargs feature (from Oracle.com)")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"https://www.javatpoint.com/varargs"}},[_v("Java Varargs tutorial (for javaTpoint.com)")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

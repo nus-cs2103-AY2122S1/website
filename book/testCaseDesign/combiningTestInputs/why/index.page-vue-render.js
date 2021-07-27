@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Test Case Design → Combining Test Inputs →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"why"}},[_c('span',{staticClass:"anchor",attrs:{"id":"why"}}),_c('span',[_v("Why")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"why"}},[_c('span',{staticClass:"anchor",attrs:{"id":"why"}}),_c('span',[_v("Why")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#why","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("An SUT can take multiple inputs.")]),_v(" You can select values for each input (using equivalence partitioning, boundary value analysis, or some other technique).")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("An SUT can take multiple inputs.")]),
 with(this){return _c('p',[_c('strong',[_v("Testing all possible combinations is effective but not efficient.")]),_v(" If you test all possible combinations for the above example, you need to test 6x5x2x6=360 cases. Doing so has a higher chance of discovering bugs (i.e. effective) but the number of test cases will be too high (i.e. not efficient). Therefore, "),_c('strong',[_v("you need smarter ways to combine test inputs that are both effective and efficient.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

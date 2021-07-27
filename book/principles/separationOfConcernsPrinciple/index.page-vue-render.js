@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Principles →")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"separation-of-concerns-principle"}},[_c('span',{staticClass:"anchor",attrs:{"id":"separation-of-concerns-principle"}}),_c('span',[_v("Separation of concerns principle")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"separation-of-concerns-principle"}},[_c('span',{staticClass:"anchor",attrs:{"id":"separation-of-concerns-principle"}}),_c('span',[_v("Separation of concerns principle")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#separation-of-concerns-principle","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("A "),_c('em',[_v("concern")]),_v(" in this context is a set of information that affects the code of a computer program.")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_v("A "),_c('em',[_v("concern")]),_v(" in this context
 with(this){return _c('p',[_c('strong',[_v("This principle can be applied at the class level, as well as at higher levels.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

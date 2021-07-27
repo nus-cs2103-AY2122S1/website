@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Requirements → Specifying Requirements → User Stories →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"details"}},[_c('span',{staticClass:"anchor",attrs:{"id":"details"}}),_c('span',[_v("Details")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"details"}},[_c('span',{staticClass:"anchor",attrs:{"id":"details"}}),_c('span',[_v("Details")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#details","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("{benefit}")]),_v(" can be omitted")]),_v(" if it is obvious.")])}
@@ -41,6 +41,6 @@ with(this){return _c('p',[_c('strong',[_v("Other useful info that can be added t
 with(this){return _c('ul',[_c('li',[_v("Priority: how important the user story is")]),_v(" "),_c('li',[_v("Size: the estimated effort to implement the user story")]),_v(" "),_c('li',[_v("Urgency: how soon the feature is needed")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

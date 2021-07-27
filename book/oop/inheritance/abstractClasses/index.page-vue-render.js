@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Paradigms → OOP → Inheritance →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"abstract-classes-and-methods"}},[_c('span',{staticClass:"anchor",attrs:{"id":"abstract-classes-and-methods"}}),_c('span',[_v("Abstract classes and methods")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"abstract-classes-and-methods"}},[_c('span',{staticClass:"anchor",attrs:{"id":"abstract-classes-and-methods"}}),_c('span',[_v("Abstract classes and methods")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#abstract-classes-and-methods","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("You can declare a class as "),_c('em',[_v("abstract")]),_v(" when a class is merely a representation of commonalities among its subclasses")]),_v(" in which case it does not make sense to instantiate objects of that class.")])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("You can declare a class as "),_c('em'
 with(this){return _c('p',[_c('strong',[_v("A class that has an abstract method becomes an abstract class")]),_v(" because the class definition is incomplete (due to the missing method body) and it is not possible to create objects using an incomplete class definition.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

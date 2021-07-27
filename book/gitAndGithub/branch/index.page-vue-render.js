@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"branch-doing-multiple-parallel-changes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"branch-doing-multiple-parallel-changes"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("branch")]),_v(": Doing multiple parallel changes")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"branch-doing-multiple-parallel-changes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"branch-doing-multiple-parallel-changes"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("branch")]),_v(": Doing multiple parallel changes")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#branch-doing-multiple-parallel-changes","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Git supports branching")]),_v(", which allows you to do multiple parallel changes to the content of a repository.")])}
@@ -80,6 +80,6 @@ with(this){return _c('p',[_v("That is because "),_c('strong',[_v("Git does a "),
 with(this){return _c('p',[_c('strong',[_v("It is possible to force Git to create a merge commit even if fast forwarding is possible.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   

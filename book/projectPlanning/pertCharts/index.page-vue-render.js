@@ -17,7 +17,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → Project Planning →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"pert-charts"}},[_c('span',{staticClass:"anchor",attrs:{"id":"pert-charts"}}),_c('span',[_v("PERT charts")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"pert-charts"}},[_c('span',{staticClass:"anchor",attrs:{"id":"pert-charts"}}),_c('span',[_v("PERT charts")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#pert-charts","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A PERT (Program Evaluation Review Technique) chart uses a graphical technique to show the order/sequence of tasks.")]),_v(" It is based on the simple idea of drawing a directed graph in which:")])}
@@ -29,6 +29,6 @@ with(this){return _c('ul',[_c('li',[_v("Nodes or vertices capture the effort est
 with(this){return _c('ul',[_c('li',[_v("The order of tasks. "),_c('span',{staticClass:"dimmed"},[_v("In the example above, "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Final Testing")]),_v(" cannot begin until all coding of individual subsystems have been completed.")])]),_v(" "),_c('li',[_v("Which tasks can be done concurrently. "),_c('span',{staticClass:"dimmed"},[_v("In the example above, the various subsystem designs can start independently once the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("High level design")]),_v(" is completed.")])]),_v(" "),_c('li',[_v("The shortest possible completion time. "),_c('span',{staticClass:"dimmed"},[_v("In the example above, there is a path (indicated by the shaded boxes) from start to end that determines the shortest possible completion time.")])]),_v(" "),_c('li',[_v("The Critical Path. "),_c('span',{staticClass:"dimmed"},[_v("In the example above, the shortest possible path is also the critical path")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.5")]),_v(", generated on Sat, 17 Jul 2021, 22:59:53 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 27 Jul 2021, 17:36:43 GMT+8]")])])])}
 }];
   
