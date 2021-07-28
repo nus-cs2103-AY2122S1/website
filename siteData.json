@@ -563,7 +563,6 @@
         "2-update-user-docs": "2  Update user docs",
         "3-release-as-a-jar-file": "3  Release as a jar file",
         "4-ensure-the-code-reposense-compatible": "4  Ensure the code RepoSense-compatible",
-        "dg-possible-bugs": "DG - Possible Bugs",
         "5-wrap-up-v1-3": "5  Wrap up v1.3",
         "6-demo-v1-3-before-the-tutorial": "6  Demo v1.3  before the tutorial"
       },

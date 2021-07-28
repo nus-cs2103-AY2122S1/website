@@ -782,3 +782,19 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w5.md
 2021-07-27T09:33:00.748Z - info: Assets built
 2021-07-27T09:36:33.821Z - info: Website generation started at 5:36:31 pm
 2021-07-27T09:36:39.429Z - info: Building assets...
+2021-07-27T09:36:43.726Z - info: Assets built
+2021-07-27T09:36:43.726Z - info: Generating pages...
+2021-07-27T09:36:52.201Z - debug:  
+2021-07-27T09:36:52.202Z - debug:  
+2021-07-27T09:36:52.202Z - debug:  
+2021-07-27T09:36:52.202Z - debug:  
+2021-07-27T09:36:52.202Z - debug:  
+2021-07-27T09:36:52.203Z - debug:  
+2021-07-27T09:38:43.995Z - debug:  
+2021-07-27T09:38:57.506Z - debug:  
+2021-07-27T09:38:57.507Z - debug:  
+2021-07-27T09:39:03.966Z - info: Pages built
+2021-07-27T09:39:04.857Z - info: Site data built
+2021-07-27T09:39:04.857Z - info: Website generation complete! Total build time: 152.889s
+2021-07-27T09:39:04.857Z - info: Build success!
+2021-07-27T09:39:15.973Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
