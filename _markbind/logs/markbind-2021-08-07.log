@@ -1,0 +1,36 @@
+2021-08-06T16:02:11.389Z - info: [12:02:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2021-08-06T16:02:11.400Z - info: Synchronizing opened pages list before reload
+2021-08-06T16:02:11.400Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T16:02:11.401Z - info: 1. schedule/week2/topics
+2021-08-06T16:02:11.401Z - info: 2. schedule/week2/admin
+2021-08-06T16:02:12.415Z - info: Rebuilding 2 pages
+2021-08-06T16:02:15.219Z - info: Site data built
+2021-08-06T16:02:15.219Z - info: Pages rebuilt
+2021-08-06T16:02:15.219Z - info: Website regeneration complete! Total build time: 2.807s
+2021-08-06T16:02:22.818Z - info: [12:02:22 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2021-08-06T16:02:22.818Z - info: Synchronizing opened pages list before reload
+2021-08-06T16:02:22.818Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T16:02:22.819Z - info: 1. schedule/week2/topics
+2021-08-06T16:02:22.819Z - info: 2. schedule/week2/admin
+2021-08-06T16:02:23.823Z - info: Rebuilding 2 pages
+2021-08-06T16:02:26.169Z - info: Site data built
+2021-08-06T16:02:26.169Z - info: Pages rebuilt
+2021-08-06T16:02:26.169Z - info: Website regeneration complete! Total build time: 2.347s
+2021-08-06T16:05:19.261Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\project as some of its dependencies were changed since the last visit
+2021-08-06T16:05:20.703Z - info: Site data built
+2021-08-06T16:05:20.703Z - info: Lazy website regeneration complete! Total build time: 1.442s
+2021-08-06T16:06:46.298Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\tutorial as some of its dependencies were changed since the last visit
+2021-08-06T16:06:46.570Z - info: Site data built
+2021-08-06T16:06:46.571Z - info: Lazy website regeneration complete! Total build time: 0.274s
+2021-08-06T16:22:37.994Z - info: [12:22:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-08-06T16:22:37.994Z - info: Synchronizing opened pages list before reload
+2021-08-06T16:22:37.995Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T16:22:37.995Z - info: 1. schedule/week2/project
+2021-08-06T16:22:37.995Z - info: 2. schedule/week2/admin
+2021-08-06T16:22:39.151Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-08-06T16:22:39.154Z - info: Rebuilding 2 pages
+2021-08-06T16:22:40.852Z - info: Site data built
+2021-08-06T16:22:40.853Z - info: Pages rebuilt
+2021-08-06T16:22:40.853Z - info: Website regeneration complete! Total build time: 1.845s
+2021-08-06T16:23:04.843Z - info: Website generation started at 12:23:03 am
+2021-08-06T16:23:10.595Z - info: Building assets...
