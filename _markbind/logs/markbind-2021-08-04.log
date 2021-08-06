@@ -338,3 +338,53 @@
 2021-08-04T07:39:03.188Z - info: Website regeneration complete! Total build time: 0.308s
 2021-08-04T07:46:40.968Z - info: Website generation started at 3:46:38 pm
 2021-08-04T07:46:45.846Z - info: Building assets...
+2021-08-04T07:46:50.329Z - info: Assets built
+2021-08-04T07:46:50.329Z - info: Generating pages...
+2021-08-04T07:46:58.577Z - debug:  
+2021-08-04T07:46:58.583Z - debug:  
+2021-08-04T07:47:00.171Z - debug:  
+2021-08-04T07:47:00.172Z - debug:  
+2021-08-04T07:47:00.207Z - debug:  
+2021-08-04T07:47:00.207Z - debug:  
+2021-08-04T07:48:44.047Z - debug:  
+2021-08-04T07:48:55.300Z - debug:  
+2021-08-04T07:48:55.304Z - debug:  
+2021-08-04T07:49:01.245Z - info: Pages built
+2021-08-04T07:49:02.097Z - info: Site data built
+2021-08-04T07:49:02.098Z - info: Website generation complete! Total build time: 143.106s
+2021-08-04T07:49:02.098Z - info: Build success!
+2021-08-04T07:49:14.605Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-08-04T07:53:42.116Z - info: Website generation started at 3:53:34 pm
+2021-08-04T07:53:49.336Z - info: Building assets...
+2021-08-04T07:53:55.363Z - info: Assets built
+2021-08-04T07:53:55.363Z - info: Generating pages...
+2021-08-04T07:54:04.996Z - debug:  
+2021-08-04T07:54:05.000Z - debug:  
+2021-08-04T07:54:05.005Z - debug:  
+2021-08-04T07:54:06.945Z - debug:  
+2021-08-04T07:54:06.947Z - debug:  
+2021-08-04T07:54:06.947Z - debug:  
+2021-08-04T07:56:11.340Z - debug:  
+2021-08-04T07:56:26.897Z - debug:  
+2021-08-04T07:56:26.897Z - debug:  
+2021-08-04T07:56:33.106Z - info: Pages built
+2021-08-04T07:56:34.052Z - info: Site data built
+2021-08-04T07:56:34.052Z - info: Website generation complete! Total build time: 179.336s
+2021-08-04T07:56:34.053Z - info: Build success!
+2021-08-04T07:56:47.179Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!
+2021-08-04T08:37:46.427Z - info: Website generation started at 4:37:41 pm
+2021-08-04T08:37:51.036Z - info: Building assets...
+2021-08-04T08:37:55.399Z - info: Assets built
+2021-08-04T08:37:55.401Z - info: Generating pages...
+2021-08-04T08:38:05.943Z - debug:  
+2021-08-04T08:38:05.944Z - debug:  
+2021-08-04T08:38:05.944Z - debug:  
+2021-08-04T08:38:05.944Z - debug:  
+2021-08-04T08:38:05.945Z - debug:  
+2021-08-04T08:38:35.624Z - debug:  
+2021-08-04T08:39:16.205Z - info: Pages built
+2021-08-04T08:39:16.933Z - info: Site data built
+2021-08-04T08:39:16.934Z - info: Website generation complete! Total build time: 95.396s
+2021-08-04T08:39:16.934Z - info: Build success!
+2021-08-04T08:39:27.793Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
+2021-08-04T08:45:01.879Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
