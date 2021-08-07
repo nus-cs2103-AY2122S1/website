@@ -17,7 +17,7 @@ with(this){return _c('h1',{attrs:{"id":"lectures"}},[_c('span',{staticClass:"anc
 with(this){return _c('p',[_c('strong',[_c('strong',[_v("Timing/venue")])]),_v(":")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Module")]),_v(" "),_c('th',[_v("Venue")]),_v(" "),_c('th',[_v("Time")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_v("CS2103")]),_v(" "),_c('td',[_c('s',[_v("LT19")])]),_v(" "),_c('td',[_v("Friday "),_c('strong',[_v("1200")]),_v("-1400")])]),_v(" "),_c('tr',[_c('td',[_v("CS2103T")]),_v(" "),_c('td',[_c('s',[_v("LT19")])]),_v(" "),_c('td',[_v("Friday "),_c('strong',[_v("1600")]),_v("-1800")])])])])]),_c('ul',[_c('li',[_v("As the lectures are repeats of each other, "),_c('mark',[_v("you may attend any of the two, except in weeks")]),_v(" the lecture is used for the practical exam (PE) or the PE dry run.")]),_v(" "),_c('li',[_v("As Zoom has a limitation of 300 participants (and CS2103T has more than 300 students while CS2103 has ~90 students), "),_c('mark',[_v("CS2103T students are encouraged to attend the earlier lecture")]),_v(" (except in weeks mentioned above) if you are free during that time. If you can't join the Zoom lecture because it already has 300 participants, we'll make the lecture recording available to you the same day.\n")])])])}
+with(this){return _c('div',[_c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Module")]),_v(" "),_c('th',[_v("Venue")]),_v(" "),_c('th',[_v("Time")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_v("CS2103")]),_v(" "),_c('td',[_c('s',[_v("LT19")])]),_v(" "),_c('td',[_v("Friday "),_c('strong',[_v("1200")]),_v("-1400")])]),_v(" "),_c('tr',[_c('td',[_v("CS2103T")]),_v(" "),_c('td',[_c('s',[_v("LT19")])]),_v(" "),_c('td',[_v("Friday "),_c('strong',[_v("1600")]),_v("-1800")])])])])]),_c('ul',[_c('li',[_v("As the lectures are repeats of each other, "),_c('mark',[_v("you may attend any of the two, except in weeks")]),_v(" the lecture is used for the practical exam (PE) or the PE dry run."),_c('br'),_v("\nYou may want to attend the CS2103 lecture even if you are in CS2103T, given the CS2103 class size is smaller (hence, lower chance of Zoom bandwidth issues).")]),_v(" "),_c('li',[_v("The lecture recording will be made available later during the same day. Only one of the two lecture recordings will be released, as they are both supposed to contain the same content.\n")])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--cs2113"}},[_c('p',[_v("Lectures start on time sharp and end around 15 minutes before official end time.")])])}
@@ -26,7 +26,7 @@ with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--cs2113"}},[_c('p',[_v("L
 with(this){return _c('p',[_c('strong',[_c('strong',[_v("Mode")])]),_v(":")])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Will be done using Zoom. More information coming soon.")])])}
+with(this){return _c('ul',[_c('li',[_v("Will be done using Zoom. The Zoom link will be available in "),_c('a',{attrs:{"href":"https://luminus.nus.edu.sg/modules/e255f80c-e989-4565-8c5c-b0343353ed7e/details/web-links"}},[_v("LumiNUS WebLinks")]),_v(".")])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{attrs:{"tags":"m--cs2103 m--tic4001 m--tic4002"}},[_c('ul',[_c('li',[_v("Some topics come with pre-recorded lecture videos.")])])])}
@@ -44,6 +44,6 @@ with(this){return _c('p',[_c('strong',[_c('strong',[_v("Slides")])]),_v(": Our l
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/weeklySchedule.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Weekly Schedule")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tutorials.html"}},[_c('span',[_v("Tutorials "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 7 Aug 2021, 1:15:14 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 7 Aug 2021, 16:08:54 GMT+8]")])])])}
 }];
   
