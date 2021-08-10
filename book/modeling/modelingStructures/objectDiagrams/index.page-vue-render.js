@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"object-diagrams"}},[_c('span',
 with(this){return _c('p',[_c('strong',[_v("Object diagrams can be used to complement class diagrams.")]),_v(" For example, you can use object diagrams to model different object structures that can result from a design represented by a given class diagram.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 10 Aug 2021, 1:59:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 10 Aug 2021, 13:13:35 GMT+8]")])])])}
 }];
   
