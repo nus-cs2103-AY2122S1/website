@@ -98,12 +98,12 @@ with(this){return _c('p',[_c('mark',[_c('strong',[_v("We recommend you ensure yo
 with(this){return _c('h2',{attrs:{"id":"tool-teammates-for-peer-evaluations"}},[_c('span',{staticClass:"anchor",attrs:{"id":"tool-teammates-for-peer-evaluations"}}),_v("Tool: TEAMMATES (for Peer Evaluations)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#tool-teammates-for-peer-evaluations","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("We use the "),_c('a',{attrs:{"href":"http://teammatesv4.appspot.com/"}},[_v("TEAMMATES")]),_v(" online peer evaluation system. "),_c('span',{staticClass:"dimmed"},[_v("TEAMMATES is a project run by NUS SoC students and used by over 0.5 million users from over 1000 universities.")])])}
+with(this){return _c('p',[_v("We use the "),_c('a',{attrs:{"href":"http://teammatesv4.appspot.com/"}},[_v("TEAMMATES")]),_v(" online peer evaluation system. "),_c('span',{staticClass:"dimmed"},[_v("TEAMMATES is a project run by NUS SoC students and used by over 0.6 million users from over 1000 universities.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/peerEvaluations.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Peer Evaluations")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/exams.html"}},[_c('span',[_v("Exams "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 17 Aug 2021, 0:07:03 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 18 Aug 2021, 17:07:14 GMT+8]")])])])}
 }];
   

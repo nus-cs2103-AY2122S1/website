@@ -104,7 +104,7 @@ with(this){return _c('h4',{attrs:{"id":"5-project-grading-project-management-5-5
 with(this){return _c('p',[_c('strong',[_v("Evaluates:")]),_v(" How well you did in project management related aspects of the project, as an individual and as a team")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Based on:")]),_v(" tutor/bot observations of project milestones and GitHub data")])}
+with(this){return _c('p',[_c('strong',[_v("Based on:")]),_v(" tutor/grading-script observations of project milestones and GitHub data")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Grading criteria:")])])}
@@ -128,6 +128,6 @@ with(this){return _c('ul',[_c('li',[_v("Do close to an equal share of the team t
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-pe.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP: Practical Exam")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-supervision.html"}},[_c('span',[_v("tP: Supervision "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 17 Aug 2021, 0:07:03 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 18 Aug 2021, 17:07:14 GMT+8]")])])])}
 }];
   
