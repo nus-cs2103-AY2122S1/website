@@ -150,3 +150,54 @@
 2021-08-18T08:42:36.549Z - info: Lazy website regeneration complete! Total build time: 1.285s
 2021-08-18T09:07:05.897Z - info: Website generation started at 5:07:04 pm
 2021-08-18T09:07:11.033Z - info: Building assets...
+2021-08-18T09:07:14.964Z - info: Assets built
+2021-08-18T09:07:14.964Z - info: Generating pages...
+2021-08-18T09:07:23.841Z - debug:  
+2021-08-18T09:07:23.842Z - debug:  
+2021-08-18T09:07:23.842Z - debug:  
+2021-08-18T09:07:23.842Z - debug:  
+2021-08-18T09:07:23.842Z - debug:  
+2021-08-18T09:07:23.842Z - debug:  
+2021-08-18T09:08:57.801Z - debug:  
+2021-08-18T09:09:08.278Z - debug:  
+2021-08-18T09:09:08.279Z - debug:  
+2021-08-18T09:09:13.827Z - info: Pages built
+2021-08-18T09:09:14.543Z - info: Site data built
+2021-08-18T09:09:14.543Z - info: Website generation complete! Total build time: 130.231s
+2021-08-18T09:09:14.543Z - info: Build success!
+2021-08-18T09:09:25.931Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-08-18T09:40:39.266Z - info: Website generation (lazy) started at 5:40:35 pm
+2021-08-18T09:40:43.846Z - info: Building assets...
+2021-08-18T09:40:48.887Z - info: Assets built
+2021-08-18T09:40:48.887Z - info: Generating landing page...
+2021-08-18T09:40:49.893Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-18T09:40:50.594Z - info: Site data built
+2021-08-18T09:40:50.595Z - info: Website generation (lazy) complete! Total build time: 15.309s
+2021-08-18T09:40:51.270Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-18T09:40:51.270Z - info: Press CTRL+C to stop ...
+2021-08-18T09:40:58.838Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\index as some of its dependencies were changed since the last visit
+2021-08-18T09:40:59.581Z - info: Site data built
+2021-08-18T09:40:59.582Z - info: Lazy website regeneration complete! Total build time: 0.744s
+2021-08-18T09:42:29.786Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\tutorial as some of its dependencies were changed since the last visit
+2021-08-18T09:42:30.026Z - info: Site data built
+2021-08-18T09:42:30.026Z - info: Lazy website regeneration complete! Total build time: 0.241s
+2021-08-18T09:42:41.166Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\topics as some of its dependencies were changed since the last visit
+2021-08-18T09:42:44.079Z - info: Site data built
+2021-08-18T09:42:44.079Z - info: Lazy website regeneration complete! Total build time: 2.914s
+2021-08-18T09:42:45.264Z - debug:  
+2021-08-18T09:47:14.597Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\admin as some of its dependencies were changed since the last visit
+2021-08-18T09:47:15.256Z - info: Site data built
+2021-08-18T09:47:15.256Z - info: Lazy website regeneration complete! Total build time: 0.66s
+2021-08-18T09:47:22.419Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project as some of its dependencies were changed since the last visit
+2021-08-18T09:47:23.198Z - info: Site data built
+2021-08-18T09:47:23.198Z - info: Lazy website regeneration complete! Total build time: 0.779s
+2021-08-18T15:26:07.177Z - info: Website generation (lazy) started at 11:26:05 pm
+2021-08-18T15:26:11.416Z - info: Building assets...
+2021-08-18T15:26:15.768Z - info: Assets built
+2021-08-18T15:26:15.768Z - info: Generating landing page...
+2021-08-18T15:26:16.608Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-18T15:26:17.291Z - info: Site data built
+2021-08-18T15:26:17.291Z - info: Website generation (lazy) complete! Total build time: 11.605s
+2021-08-18T15:26:18.005Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-18T15:26:18.006Z - info: Press CTRL+C to stop ...
+2021-08-18T15:59:58.363Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
