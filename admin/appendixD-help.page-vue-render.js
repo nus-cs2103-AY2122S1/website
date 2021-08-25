@@ -44,7 +44,7 @@ with(this){return _c('li',[_c('strong',[_v("OK")]),_c('pre',[_c('code',{pre:true
 with(this){return _c('li',[_c('strong',{staticClass:"text-success"},[_v("better")]),_v(" (it has syntax highlighting too!)"),_c('pre',[_c('code',{pre:true,attrs:{"class":"no-line-numbers hljs java"}},[_c('span',[_c('span',{pre:true,attrs:{"class":"hljs-meta"}},[_v("@Override")]),_v("\n")]),_c('span',[_c('span',{pre:true,attrs:{"class":"hljs-function"}},[_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("public")]),_v(" "),_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("void")]),_v(" "),_c('span',{pre:true,attrs:{"class":"hljs-title"}},[_v("start")]),_c('span',{pre:true,attrs:{"class":"hljs-params"}},[_v("(Stage primaryStage)")]),_v(" ")]),_v("{\n")]),_c('span',[_v("    logger.info("),_c('span',{pre:true,attrs:{"class":"hljs-string"}},[_v("\"Starting AddressBook \"")]),_v(" + MainApp.VERSION);\n")]),_c('span',[_v("    ui.start(primaryStage);\n")]),_c('span',[_v("}\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_c('strong',[_v("Avoid addressing the question to one person")]),_v(" (e.g., the prof), unless really necessary. Doing so will discourage others from answering that question.")])])}
+with(this){return _c('li',[_c('p',[_c('strong',[_v("Avoid directing the question to one person")]),_v(" (e.g., the prof), unless really necessary. Doing so will discourage others from answering that question.")])])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_c('p',[_c('strong',[_v("Generalize the problem.")]),_v(" \"How to write tasks to a text file using Java\" is too specific to what you are working on. You are more likely to find help if you post a thread called (or search for) \"How to write to a file using Java\".")])])}
@@ -68,6 +68,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Ask the lecturer")]),_v(": 
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/appendixC-faq.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Apdx C: FAQ")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/appendixE-gitHub.html"}},[_c('span',[_v("Apdx E: Using GitHub "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 24 Aug 2021, 23:16:38 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 25 Aug 2021, 23:52:18 GMT+8]")])])])}
 }];
   
