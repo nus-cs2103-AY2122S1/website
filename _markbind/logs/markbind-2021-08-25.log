@@ -168,3 +168,19 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\noti
 2021-08-25T15:51:02.583Z - info: Lazy website regeneration complete! Total build time: 0.334s
 2021-08-25T15:52:10.295Z - info: Website generation started at 11:52:08 pm
 2021-08-25T15:52:14.635Z - info: Building assets...
+2021-08-25T15:52:18.732Z - info: Assets built
+2021-08-25T15:52:18.732Z - info: Generating pages...
+2021-08-25T15:52:27.040Z - debug:  
+2021-08-25T15:52:27.040Z - debug:  
+2021-08-25T15:52:27.041Z - debug:  
+2021-08-25T15:52:27.041Z - debug:  
+2021-08-25T15:52:27.041Z - debug:  
+2021-08-25T15:52:27.041Z - debug:  
+2021-08-25T15:53:56.829Z - debug:  
+2021-08-25T15:54:06.703Z - debug:  
+2021-08-25T15:54:06.703Z - debug:  
+2021-08-25T15:54:10.502Z - info: Pages built
+2021-08-25T15:54:11.253Z - info: Site data built
+2021-08-25T15:54:11.253Z - info: Website generation complete! Total build time: 122.49s
+2021-08-25T15:54:11.253Z - info: Build success!
+2021-08-25T15:54:23.056Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
