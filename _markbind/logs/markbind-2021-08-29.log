@@ -1,0 +1,18 @@
+2021-08-28T16:16:15.632Z - info: Website generation (lazy) started at 12:16:05 am
+2021-08-28T16:16:25.103Z - info: Building assets...
+2021-08-28T16:16:31.892Z - info: Assets built
+2021-08-28T16:16:31.893Z - info: Generating landing page...
+2021-08-28T16:16:33.902Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-28T16:16:35.078Z - info: Site data built
+2021-08-28T16:16:35.078Z - info: Website generation (lazy) complete! Total build time: 29.114s
+2021-08-28T16:16:36.132Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-28T16:16:36.132Z - info: Press CTRL+C to stop ...
+2021-08-28T16:16:39.383Z - info: [12:16:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\extensions.mbdf
+2021-08-28T16:16:39.384Z - info: Synchronizing opened pages list before reload
+2021-08-28T16:16:39.387Z - info: No pages are currently opened
+2021-08-28T16:16:45.672Z - info: Assets built
+2021-08-28T16:16:50.380Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project as some of its dependencies were changed since the last visit
+2021-08-28T16:16:53.909Z - info: Site data built
+2021-08-28T16:16:53.910Z - info: Lazy website regeneration complete! Total build time: 3.53s
+2021-08-28T16:17:42.642Z - info: Website generation started at 12:17:39 am
+2021-08-28T16:17:49.802Z - info: Building assets...

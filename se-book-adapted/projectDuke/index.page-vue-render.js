@@ -272,10 +272,10 @@ with(this){return _c('ul',[_c('li',[_v("Go to your fork on GitHub and "),_c('a',
 with(this){return _c('h3',{attrs:{"id":"a-gradle"}},[_c('span',{staticClass:"anchor",attrs:{"id":"a-gradle"}}),_c('span',{staticClass:"badge badge-pill badge-primary"},[_v("A-Gradle")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#a-gradle","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Refer to the "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/gradle.html"}},[_c('em',[_v("Gradle tutorial")]),_v(" @SE-EDU")]),_v(" to learn how to use Gradle.")])}
+with(this){return _c('p',[_v("Gradle support is provided as a separate branch (named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add-gradle-support")]),_v(") in the Duke repo. Therefore, you can follow the "),_c('em',[_v("scenario 2")]),_v(" in the guide below.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Gradle support is provided as a separate branch (named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add-gradle-support")]),_v(") in the Duke repo. Therefore, you can follow the "),_c('em',[_v("scenario 2")]),_v(" in the above guide.")])}
+with(this){return _c('p',[_v("Refer to the "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/gradle.html"}},[_c('em',[_v("Gradle tutorial")]),_v(" @SE-EDU")]),_v(" to learn how to use Gradle.")])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Minimal")]),_v(": Set up gradle so that you can build and run Duke using gradle.")]),_v(" "),_c('li',[_c('strong',[_v("Recommended")]),_v(": Set up gradle to run unit tests.")]),_v(" "),_c('li',[_c('strong',[_v("Stretch Goal")]),_v(": Use gradle to automate more things in your project.")])])}
@@ -539,6 +539,6 @@ with(this){return _c('h3',{attrs:{"id":"d-merchandise"}},[_c('span',{staticClass
 with(this){return _c('p',[_v("Support managing info about merchandise "),_c('span',{staticClass:"dimmed"},[_v("e.g., a property agent to keep track of properties, a collector of stamps keep track of items in the collection")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 28 Aug 2021, 14:31:25 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 29 Aug 2021, 0:17:55 GMT+8]")])])])}
 }];
   
