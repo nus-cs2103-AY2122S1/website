@@ -23,7 +23,7 @@ with(this){return _c('span',{staticClass:"badge badge-secondary font-weight-norm
 with(this){return _c('a',{attrs:{"href":"/website/se-book-adapted/chapters/specifyingRequirements.html#a-recipe-for-brainstorming-user-stories"}},[_c('strong',[_v("the "),_c('em',[_v("recipe for brainstorming user stories")])]),_v(" in the textbook → Specifying Requirements → UserStories →  Usage")])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_c('strong',[_v("Follow the steps in the recipe mentioned above to arrive at user stories for the the product")]),_v(", with your team members. "),_c('span',{attrs:{"tags":"m--cs2103 m--tic4002"}},[_v("If you didn't attend the lecture, please watch the lecture recording to learn more about this step.")])])])}
+with(this){return _c('li',[_c('p',[_c('strong',[_v("Follow the steps in the recipe mentioned above to arrive at user stories for the the product")]),_v(", with your team members.  "),_c('span',{attrs:{"tags":"m--cs2103 m--tic4002"}},[_v("If you didn't attend the lecture, please watch the lecture recording to learn more about this step."),_c('br'),_v(" "),_c('span',{staticClass:"text-danger"},[_v("Not following the recipe mentioned above")]),_v(" could result in a different set of user stories than otherwise.\n")])])])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_c('p',[_c('strong',[_v("User stories for what version?")]),_v(" At this stage, collect user stories to cover at least the final version you hope to deliver at the end of the semester. It is OK to go even beyond that "),_c('span',{staticClass:"dimmed"},[_v("(reason: we are simulating a project that will continue even after the semester is over)")]),_v("."),_c('br'),_v("\nDo not omit user stories already covered by the features in AB3 "),_c('span',{staticClass:"dimmed"},[_v("i.e., the user story should be recorded even if AB3 already caters for it.")])])])}
@@ -59,6 +59,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("First stage")]),_v(":\n"),_
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-w4.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP week 4: Set direction")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-w6.html"}},[_c('span',[_v("tP week 6: Conceptualize the product "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 29 Aug 2021, 0:17:55 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 31 Aug 2021, 0:48:40 GMT+8]")])])])}
 }];
   
