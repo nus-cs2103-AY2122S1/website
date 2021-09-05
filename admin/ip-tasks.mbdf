@@ -462,6 +462,7 @@ This task is worth `2x2=4` participtaion points.
 
 * {{ step(1) }} **Note these additional guidelines**:
   * Read the [_Best practices for reviewing PRs_ @SE-EDU/guides](https://se-education.org/guides/guidelines/PRs-reviewing.html). You are ==expected to follow all of them==.
+  * Make sure you ==add 'review comments' (not regular comments)== as only those are counted for participation. See step 4 in the panel above to find how to add 'review comments'.
   * If the PR has received some review comments already, feel free to confirm/complement/question those comments in your review. Also, look for things the previous reviewers may have missed.
   * At the end of the review, choose `Comment` (i.e., not `Approve` or `Request changes`)
 

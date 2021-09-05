@@ -1,0 +1,62 @@
+2021-09-05T05:47:59.401Z - info: Website generation (lazy) started at 1:47:54 pm
+2021-09-05T05:48:04.410Z - info: Building assets...
+2021-09-05T05:48:09.730Z - info: Assets built
+2021-09-05T05:48:09.731Z - info: Generating landing page...
+2021-09-05T05:48:11.059Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-09-05T05:48:12.044Z - info: Site data built
+2021-09-05T05:48:12.044Z - info: Website generation (lazy) complete! Total build time: 17.425s
+2021-09-05T05:48:12.995Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-09-05T05:48:12.995Z - info: Press CTRL+C to stop ...
+2021-09-05T05:49:01.032Z - info: [1:49:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks.mbdf
+2021-09-05T05:49:01.033Z - info: Synchronizing opened pages list before reload
+2021-09-05T05:49:01.034Z - info: Current opened pages, from most-to-least recent:
+2021-09-05T05:49:01.034Z - info: 1. index
+2021-09-05T05:49:02.047Z - info: Rebuilding 1 pages
+2021-09-05T05:49:02.889Z - info: Site data built
+2021-09-05T05:49:02.889Z - info: Pages rebuilt
+2021-09-05T05:49:02.889Z - info: Website regeneration complete! Total build time: 0.843s
+2021-09-05T05:49:05.628Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\project as some of its dependencies were changed since the last visit
+2021-09-05T05:49:07.035Z - info: Site data built
+2021-09-05T05:49:07.036Z - info: Lazy website regeneration complete! Total build time: 1.408s
+2021-09-05T05:49:19.793Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\index as some of its dependencies were changed since the last visit
+2021-09-05T05:49:20.691Z - info: Site data built
+2021-09-05T05:49:20.691Z - info: Lazy website regeneration complete! Total build time: 0.899s
+2021-09-05T05:49:26.541Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project as some of its dependencies were changed since the last visit
+2021-09-05T05:49:27.832Z - info: Site data built
+2021-09-05T05:49:27.832Z - info: Lazy website regeneration complete! Total build time: 1.291s
+2021-09-05T07:12:21.143Z - info: [3:12:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\studentData.mbdf
+2021-09-05T07:12:21.146Z - info: Synchronizing opened pages list before reload
+2021-09-05T07:12:21.147Z - info: Current opened pages, from most-to-least recent:
+2021-09-05T07:12:21.148Z - info: 1. schedule/week4/project
+2021-09-05T07:12:22.215Z - info: Assets built
+2021-09-05T07:12:42.554Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\teamList as some of its dependencies were changed since the last visit
+2021-09-05T07:12:43.086Z - info: Site data built
+2021-09-05T07:12:43.086Z - info: Lazy website regeneration complete! Total build time: 0.532s
+2021-09-05T07:13:36.700Z - info: Website generation (lazy) started at 3:13:34 pm
+2021-09-05T07:13:42.491Z - info: Building assets...
+2021-09-05T07:13:47.678Z - info: Assets built
+2021-09-05T07:13:47.678Z - info: Generating landing page...
+2021-09-05T07:13:49.339Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-09-05T07:13:50.153Z - info: Site data built
+2021-09-05T07:13:50.154Z - info: Website generation (lazy) complete! Total build time: 15.444s
+2021-09-05T07:13:50.989Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-09-05T07:13:50.989Z - info: Press CTRL+C to stop ...
+2021-09-05T07:16:52.486Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\teamList as some of its dependencies were changed since the last visit
+2021-09-05T07:16:54.364Z - info: Site data built
+2021-09-05T07:16:54.365Z - info: Lazy website regeneration complete! Total build time: 1.88s
+2021-09-05T07:18:19.316Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2021-09-05T07:18:19.705Z - info: Site data built
+2021-09-05T07:18:19.705Z - info: Lazy website regeneration complete! Total build time: 0.389s
+2021-09-05T07:18:23.223Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\intellij as some of its dependencies were changed since the last visit
+2021-09-05T07:18:23.523Z - info: Site data built
+2021-09-05T07:18:23.523Z - info: Lazy website regeneration complete! Total build time: 0.3s
+2021-09-05T07:21:10.732Z - info: [3:21:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\intellij\productivityShortcuts\text.md
+2021-09-05T07:21:10.732Z - info: Synchronizing opened pages list before reload
+2021-09-05T07:21:10.733Z - info: Current opened pages, from most-to-least recent:
+2021-09-05T07:21:10.733Z - info: 1. se-book-adapted/chapters/intellij
+2021-09-05T07:21:11.751Z - info: Rebuilding 1 pages
+2021-09-05T07:21:11.987Z - info: Site data built
+2021-09-05T07:21:11.987Z - info: Pages rebuilt
+2021-09-05T07:21:11.987Z - info: Website regeneration complete! Total build time: 0.238s
+2021-09-05T07:23:29.060Z - info: Website generation started at 3:23:27 pm
+2021-09-05T07:23:34.788Z - info: Building assets...
