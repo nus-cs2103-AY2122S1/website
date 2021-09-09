@@ -1,0 +1,38 @@
+2021-09-09T12:41:24.538Z - info: Website generation (lazy) started at 8:41:18 pm
+2021-09-09T12:41:29.698Z - info: Building assets...
+2021-09-09T12:41:34.292Z - info: Assets built
+2021-09-09T12:41:34.293Z - info: Generating landing page...
+2021-09-09T12:41:35.852Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-09-09T12:41:36.996Z - info: Site data built
+2021-09-09T12:41:36.997Z - info: Website generation (lazy) complete! Total build time: 18.561s
+2021-09-09T12:41:37.856Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-09-09T12:41:37.856Z - info: Press CTRL+C to stop ...
+2021-09-09T12:41:55.897Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\project as some of its dependencies were changed since the last visit
+2021-09-09T12:41:57.582Z - info: Site data built
+2021-09-09T12:41:57.583Z - info: Lazy website regeneration complete! Total build time: 1.686s
+2021-09-09T12:44:21.992Z - info: [8:44:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2021-09-09T12:44:21.992Z - info: Synchronizing opened pages list before reload
+2021-09-09T12:44:21.993Z - info: Current opened pages, from most-to-least recent:
+2021-09-09T12:44:21.993Z - info: 1. schedule/week5/project
+2021-09-09T12:44:23.005Z - info: Rebuilding 1 pages
+2021-09-09T12:44:24.556Z - info: Site data built
+2021-09-09T12:44:24.556Z - info: Pages rebuilt
+2021-09-09T12:44:24.556Z - info: Website regeneration complete! Total build time: 1.553s
+2021-09-09T12:44:54.907Z - info: [8:44:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2021-09-09T12:44:54.907Z - info: Synchronizing opened pages list before reload
+2021-09-09T12:44:54.908Z - info: Current opened pages, from most-to-least recent:
+2021-09-09T12:44:54.908Z - info: 1. schedule/week5/project
+2021-09-09T12:44:55.932Z - info: Rebuilding 1 pages
+2021-09-09T12:44:57.450Z - info: Site data built
+2021-09-09T12:44:57.450Z - info: Pages rebuilt
+2021-09-09T12:44:57.450Z - info: Website regeneration complete! Total build time: 1.522s
+2021-09-09T12:45:14.659Z - info: [8:45:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks.mbdf
+2021-09-09T12:45:14.659Z - info: Synchronizing opened pages list before reload
+2021-09-09T12:45:14.660Z - info: Current opened pages, from most-to-least recent:
+2021-09-09T12:45:14.660Z - info: 1. schedule/week5/project
+2021-09-09T12:45:15.672Z - info: Rebuilding 1 pages
+2021-09-09T12:45:17.191Z - info: Site data built
+2021-09-09T12:45:17.191Z - info: Pages rebuilt
+2021-09-09T12:45:17.191Z - info: Website regeneration complete! Total build time: 1.522s
+2021-09-09T12:51:45.444Z - info: Website generation started at 8:51:43 pm
+2021-09-09T12:51:50.471Z - info: Building assets...

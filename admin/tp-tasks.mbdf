@@ -233,7 +233,7 @@ How is that better?
 
 </box>
 
-**The goal of this activity is to come up with the _smallest possible product that is still usable_** so that it can be implemented as {{ version_first }}, to be delivered at the end of the first project iteration. We try to make it small because ==you will have only two weeks to implement {{ version_first }}== and coding as a team is a lot harder than writing code alone.
+**The goal of this activity is to come up with the _smallest possible product that is still usable_** so that it can be implemented as {{ version_first }}, to be delivered at the end of the first project iteration. We try to make it small because ==you will have only two weeks to implement {{ version_first }}== and coding as a team is a lot harder than writing code alone.{% if cs2103 or tic4002 %}<br>%%**Why {{ version_first }} and not v1.1?** v1.1 is a mere documentation update only. {{ version_first }} will be the first version that contains functionality changes.%%{% endif %}
 
 {{ icon_important_big_red }} Do not discuss features, UI, command format, or implementation details yet. That would be like _putting the cart before the horse_. At this stage we are simply trying to choose which user needs to fulfill first.
 
