@@ -315,7 +315,7 @@ Suggested workflow:
   * As this is a very rough draft and the final version will be in a different format altogether %%(i.e., in Markdown format)%%, don't waste time in formatting, copy editing etc. It is fine as long as the tutor can get a rough idea of the features from this draft. You can also do just the 'Features' section and omit the other parts.
   * Do try to come up with concrete command syntax for the CLI commands that you will deliver at {{ version_first }}.
   * Include only features that will be delivered in {{ version_first }}.
-  * <span tags="m--cs2103 m--tic4002">Consider including some UI mock-ups too %%(they can be hand-drawn or created using a tool such as PowerPoint, PlantUML or [Balsamiq](https://balsamiq.com/))%%</span><span tags="m--cs2113 m--tic4001">Consider including examples of expected outputs too</span>.
+  * <span tags="m--cs2103 m--tic4002">Consider including some UI mock-ups too %%(they can be hand-drawn or created using a tool such as PowerPoint, PlantUML, Figma, etc. -- they can be very low-fidelity mock-ups, as they are meant to be temporary)%%</span><span tags="m--cs2113 m--tic4001">Consider including examples of expected outputs too</span>.
   * {{ icon_important_big_red }} **Submission** [one person per team]: Save the draft UG as a PDF file, name it `{team-id}.pdf` e.g., `{{ example_team_id }}.pdf`, and upload to LumiNUS.<br><br>
 
 <div id="divideDocs" class="indented">

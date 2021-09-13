@@ -26,7 +26,7 @@ with(this){return _c('li',[_v("We recommend that you follow the "),_c('a',{attrs
 with(this){return _c('li',[_v("As this is a very rough draft and the final version will be in a different format altogether "),_c('span',{staticClass:"dimmed"},[_v("(i.e., in Markdown format)")]),_v(", don't waste time in formatting, copy editing etc. It is fine as long as the tutor can get a rough idea of the features from this draft. You can also do just the 'Features' section and omit the other parts.")])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('span',{attrs:{"tags":"m--cs2103 m--tic4002"}},[_v("Consider including some UI mock-ups too "),_c('span',{staticClass:"dimmed"},[_v("(they can be hand-drawn or created using a tool such as PowerPoint, PlantUML or "),_c('a',{attrs:{"href":"https://balsamiq.com/"}},[_v("Balsamiq")]),_v(")")])]),_v(".")])}
+with(this){return _c('li',[_c('span',{attrs:{"tags":"m--cs2103 m--tic4002"}},[_v("Consider including some UI mock-ups too "),_c('span',{staticClass:"dimmed"},[_v("(they can be hand-drawn or created using a tool such as PowerPoint, PlantUML, Figma, etc. -- they can be very low-fidelity mock-ups, as they are meant to be temporary)")])]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Refine the product design")])}
@@ -50,6 +50,6 @@ with(this){return _c('ul',[_c('li',[_c('mark',[_v("Ideally, you should do this t
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-w5.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP week 5: Gather requirements")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/tp-w7.html"}},[_c('span',[_v("tP week 7: Get ready for iterations "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 12 Sept 2021, 15:20:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 14 Sept 2021, 0:12:51 GMT+8]")])])])}
 }];
   
