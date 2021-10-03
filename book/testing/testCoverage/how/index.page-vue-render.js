@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube"},[_c('iframe',{attrs:{"type":"text/html","src":"//www.youtube.com/embed/QDFI19lj4OM","frameborder":"0","width":"640","height":"390","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 1 Oct 2021, 17:51:51 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 3 Oct 2021, 15:03:40 GMT+8]")])])])}
 }];
   
