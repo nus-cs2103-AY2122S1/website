@@ -83,7 +83,7 @@ with(this){return _c('div',[_c('h3',{attrs:{"id":"enumerations"}},[_c('span',{st
 with(this){return _c('div',[_c('h3',{attrs:{"id":"class-level-members"}},[_c('span',{staticClass:"anchor",attrs:{"id":"class-level-members"}}),_c('span',[_v("Class-level members")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#class-level-members","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("In UML class diagrams, "),_c('strong',[_v("underlines denote class-level attributes and variables.")])])}
+with(this){return _c('p',[_v("In UML class diagrams, "),_c('strong',[_v("underlines denote class-level attributes and methods.")])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('h3',{attrs:{"id":"association-classes"}},[_c('span',{staticClass:"anchor",attrs:{"id":"association-classes"}}),_c('span',[_v("Association classes")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#association-classes","onclick":"event.stopPropagation()"}})])])}
@@ -230,6 +230,6 @@ with(this){return _c('ul',[_c('li',[_v("Show objects instead of classes:\n"),_c(
 with(this){return _c('p',[_v("Furthermore, "),_c('strong',[_v("multiple object diagrams can correspond to a single class diagram")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 8 Oct 2021, 19:59:36 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 13 Oct 2021, 16:37:48 GMT+8]")])])])}
 }];
   
