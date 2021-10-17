@@ -20,12 +20,12 @@ with(this){return _c('ol',[_c('li',[_v("Java assertions are not enabled by defau
 with(this){return _c('ul',[_c('li',[_v("Give an example of defensive programming from AB3 or your tP.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Evaluate the sample DG extracts (will be provided by the tutor), as guided by the tutor.")]),_v(" "),_c('li',[_v("In particular, detect the following DG bugs (they are the same bugs that will be used when evaluating your final DG).")])])}
+with(this){return _c('ul',[_c('li',[_v("Evaluate the sample DG extracts in "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("T10-DG-Extracts.pdf")]),_v(" (in "),_c('a',{attrs:{"href":"https://luminus.nus.edu.sg/modules/e255f80c-e989-4565-8c5c-b0343353ed7e/files"}},[_v("LumiNUS/Files")]),_v("/Handouts).")]),_v(" "),_c('li',[_v("In particular, detect the following DG bugs (they are the same bugs against which your final DG will be evaluated).")])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Also, lookout for places where these tips can be applied.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 15 Oct 2021, 17:20:14 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 18 Oct 2021, 0:23:02 GMT+8]")])])])}
 }];
   
