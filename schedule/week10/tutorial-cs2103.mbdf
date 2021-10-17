@@ -15,7 +15,7 @@
 * Give an example of defensive programming from AB3 or your tP.
 
 
-#### {{ thumb(3) }} Review the <tooltip content="Developer Guide">DG</tooltip> of a Peer Team
+#### {{ thumb(3) }} Review sample <tooltip content="Developer Guide">DG</tooltip> extracts
 
 * Evaluate the sample DG extracts in `T10-DG-Extracts.pdf` (in [LumiNUS/Files]({{ url_files }})/Handouts).
 * In particular, detect the following DG bugs (they are the same bugs against which your final DG will be evaluated).
