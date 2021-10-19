@@ -1,0 +1,38 @@
+2021-10-19T03:16:02.996Z - info: Website generation (lazy) started at 11:15:58 am
+2021-10-19T03:16:08.231Z - info: Building assets...
+2021-10-19T03:16:12.694Z - info: Assets built
+2021-10-19T03:16:12.695Z - info: Generating landing page...
+2021-10-19T03:16:14.197Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-19T03:16:15.346Z - info: Site data built
+2021-10-19T03:16:15.346Z - info: Website generation (lazy) complete! Total build time: 16.965s
+2021-10-19T03:16:16.177Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-10-19T03:16:16.177Z - info: Press CTRL+C to stop ...
+2021-10-19T03:16:29.692Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\index as some of its dependencies were changed since the last visit
+2021-10-19T03:16:31.146Z - info: Site data built
+2021-10-19T03:16:31.147Z - info: Lazy website regeneration complete! Total build time: 1.455s
+2021-10-19T03:17:08.217Z - info: [11:17:08 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\notices-cs2103.mbdf
+2021-10-19T03:17:08.218Z - info: Synchronizing opened pages list before reload
+2021-10-19T03:17:08.218Z - info: Current opened pages, from most-to-least recent:
+2021-10-19T03:17:08.218Z - info: 1. schedule/week11/index
+2021-10-19T03:17:09.237Z - info: Rebuilding 1 pages
+2021-10-19T03:17:10.239Z - info: Site data built
+2021-10-19T03:17:10.239Z - info: Pages rebuilt
+2021-10-19T03:17:10.240Z - info: Website regeneration complete! Total build time: 1.005s
+2021-10-19T03:18:18.161Z - info: [11:18:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\notices-cs2103.mbdf
+2021-10-19T03:18:18.162Z - info: Synchronizing opened pages list before reload
+2021-10-19T03:18:18.162Z - info: Current opened pages, from most-to-least recent:
+2021-10-19T03:18:18.162Z - info: 1. schedule/week11/index
+2021-10-19T03:18:19.174Z - info: Rebuilding 1 pages
+2021-10-19T03:18:20.135Z - info: Site data built
+2021-10-19T03:18:20.135Z - info: Pages rebuilt
+2021-10-19T03:18:20.135Z - info: Website regeneration complete! Total build time: 0.962s
+2021-10-19T03:19:43.247Z - info: [11:19:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\notices-cs2103.mbdf
+2021-10-19T03:19:43.248Z - info: Synchronizing opened pages list before reload
+2021-10-19T03:19:43.248Z - info: Current opened pages, from most-to-least recent:
+2021-10-19T03:19:43.248Z - info: 1. schedule/week11/index
+2021-10-19T03:19:44.264Z - info: Rebuilding 1 pages
+2021-10-19T03:19:45.245Z - info: Site data built
+2021-10-19T03:19:45.245Z - info: Pages rebuilt
+2021-10-19T03:19:45.245Z - info: Website regeneration complete! Total build time: 0.982s
+2021-10-19T03:20:03.898Z - info: Website generation started at 11:20:01 am
+2021-10-19T03:20:09.428Z - info: Building assets...
