@@ -79,3 +79,204 @@
 2021-10-20T06:09:31.472Z - info: Lazy website regeneration complete! Total build time: 1.338s
 2021-10-20T06:12:02.874Z - info: Website generation started at 2:11:57 pm
 2021-10-20T06:12:13.456Z - info: Building assets...
+2021-10-20T06:12:23.348Z - info: Assets built
+2021-10-20T06:12:23.348Z - info: Generating pages...
+2021-10-20T06:12:41.686Z - debug:  
+2021-10-20T06:12:46.195Z - debug:  
+2021-10-20T06:12:46.195Z - debug:  
+2021-10-20T06:12:46.196Z - debug:  
+2021-10-20T06:12:46.197Z - debug:  
+2021-10-20T06:12:46.202Z - debug:  
+2021-10-20T06:18:45.368Z - debug:  
+2021-10-20T06:19:05.963Z - debug:  
+2021-10-20T06:19:05.978Z - debug:  
+2021-10-20T06:19:21.162Z - info: Pages built
+2021-10-20T06:19:22.702Z - info: Site data built
+2021-10-20T06:19:22.703Z - info: Website generation complete! Total build time: 445.258s
+2021-10-20T06:19:22.703Z - info: Build success!
+2021-10-20T06:19:43.384Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-10-20T06:28:12.949Z - info: Website generation (lazy) started at 2:28:07 pm
+2021-10-20T06:28:18.830Z - info: Building assets...
+2021-10-20T06:28:24.169Z - info: Assets built
+2021-10-20T06:28:24.170Z - info: Generating landing page...
+2021-10-20T06:28:25.626Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-20T06:28:26.557Z - info: Site data built
+2021-10-20T06:28:26.557Z - info: Website generation (lazy) complete! Total build time: 18.593s
+2021-10-20T06:28:27.421Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-10-20T06:28:27.421Z - info: Press CTRL+C to stop ...
+2021-10-20T06:29:15.545Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\index as some of its dependencies were changed since the last visit
+2021-10-20T06:29:17.144Z - info: Site data built
+2021-10-20T06:29:17.144Z - info: Lazy website regeneration complete! Total build time: 1.6s
+2021-10-20T06:30:12.012Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin as some of its dependencies were changed since the last visit
+2021-10-20T06:30:12.406Z - info: Site data built
+2021-10-20T06:30:12.407Z - info: Lazy website regeneration complete! Total build time: 0.395s
+2021-10-20T07:19:44.858Z - info: [3:19:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:19:44.862Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:19:44.863Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:19:44.864Z - info: 1. schedule/week11/admin
+2021-10-20T07:19:45.871Z - info: Rebuilding 1 pages
+2021-10-20T07:19:46.474Z - info: Site data built
+2021-10-20T07:19:46.474Z - info: Pages rebuilt
+2021-10-20T07:19:46.474Z - info: Website regeneration complete! Total build time: 0.605s
+2021-10-20T07:20:12.822Z - info: [3:20:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:20:12.823Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:20:12.823Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:20:12.823Z - info: 1. schedule/week11/admin
+2021-10-20T07:20:13.835Z - info: Rebuilding 1 pages
+2021-10-20T07:20:14.271Z - info: Site data built
+2021-10-20T07:20:14.271Z - info: Pages rebuilt
+2021-10-20T07:20:14.271Z - info: Website regeneration complete! Total build time: 0.437s
+2021-10-20T07:20:36.946Z - info: [3:20:36 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:20:36.946Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:20:36.946Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:20:36.946Z - info: 1. schedule/week11/admin
+2021-10-20T07:20:37.952Z - info: Rebuilding 1 pages
+2021-10-20T07:20:38.286Z - info: Site data built
+2021-10-20T07:20:38.286Z - info: Pages rebuilt
+2021-10-20T07:20:38.286Z - info: Website regeneration complete! Total build time: 0.334s
+2021-10-20T07:21:17.576Z - info: [3:21:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:21:17.577Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:21:17.577Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:21:17.577Z - info: 1. schedule/week11/admin
+2021-10-20T07:21:18.593Z - info: Rebuilding 1 pages
+2021-10-20T07:21:18.903Z - info: Site data built
+2021-10-20T07:21:18.903Z - info: Pages rebuilt
+2021-10-20T07:21:18.903Z - info: Website regeneration complete! Total build time: 0.311s
+2021-10-20T07:22:19.844Z - info: [3:22:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:22:19.844Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:22:19.845Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:22:19.845Z - info: 1. schedule/week11/admin
+2021-10-20T07:22:20.856Z - info: Rebuilding 1 pages
+2021-10-20T07:22:21.167Z - info: Site data built
+2021-10-20T07:22:21.167Z - info: Pages rebuilt
+2021-10-20T07:22:21.167Z - info: Website regeneration complete! Total build time: 0.311s
+2021-10-20T07:23:28.665Z - info: [3:23:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:23:28.665Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:23:28.666Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:23:28.666Z - info: 1. schedule/week11/admin
+2021-10-20T07:23:29.679Z - info: Rebuilding 1 pages
+2021-10-20T07:23:29.956Z - info: Site data built
+2021-10-20T07:23:29.956Z - info: Pages rebuilt
+2021-10-20T07:23:29.956Z - info: Website regeneration complete! Total build time: 0.279s
+2021-10-20T07:23:42.041Z - info: [3:23:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:23:42.041Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:23:42.041Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:23:42.041Z - info: 1. schedule/week11/admin
+2021-10-20T07:23:43.052Z - info: Rebuilding 1 pages
+2021-10-20T07:23:43.352Z - info: Site data built
+2021-10-20T07:23:43.352Z - info: Pages rebuilt
+2021-10-20T07:23:43.352Z - info: Website regeneration complete! Total build time: 0.301s
+2021-10-20T07:23:55.575Z - info: [3:23:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:23:55.575Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:23:55.576Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:23:55.576Z - info: 1. schedule/week11/admin
+2021-10-20T07:23:56.580Z - info: Rebuilding 1 pages
+2021-10-20T07:23:56.764Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md) [Line 73, Column 49]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md) [Line 602, Column 14]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md) [Line 73, Column 49]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md) [Line 73, Column 46]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md) [Line 73, Column 49]
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md)
+  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin.md) [Line 45, Column 132]
+  parseSignature: expected comma after expression
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:29:3)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:469:37)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1122:20
+2021-10-20T07:23:56.764Z - warn:  Error: Error while generating undefined
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1130:15
+    at async sequentialAsyncForEach (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\async.js:15:7)
+    at async Site.generatePagesSequential (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1113:5)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1094:23
+    at async sequentialAsyncForEach (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\async.js:15:7)
+    at async Site.runPageGenerationTasks (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1085:5)
+    at async Site.regenerateAffectedPages (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1316:7)
+    at async Site._rebuildAffectedSourceFiles (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:742:7)
+2021-10-20T07:24:07.472Z - info: [3:24:07 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyAdminTasks.mbdf
+2021-10-20T07:24:07.472Z - info: Synchronizing opened pages list before reload
+2021-10-20T07:24:07.472Z - info: Current opened pages, from most-to-least recent:
+2021-10-20T07:24:07.472Z - info: 1. schedule/week11/admin
+2021-10-20T07:24:08.479Z - info: No pages needed to be rebuilt
+2021-10-20T07:24:33.100Z - info: Website generation (lazy) started at 3:24:31 pm
+2021-10-20T07:24:38.500Z - info: Building assets...
+2021-10-20T07:24:42.991Z - info: Assets built
+2021-10-20T07:24:42.992Z - info: Generating landing page...
+2021-10-20T07:24:44.258Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-20T07:24:45.103Z - info: Site data built
+2021-10-20T07:24:45.103Z - info: Website generation (lazy) complete! Total build time: 14.079s
+2021-10-20T07:24:45.870Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-10-20T07:24:45.870Z - info: Press CTRL+C to stop ...
+2021-10-20T07:24:53.297Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\index as some of its dependencies were changed since the last visit
+2021-10-20T07:24:56.020Z - info: Site data built
+2021-10-20T07:24:56.021Z - info: Lazy website regeneration complete! Total build time: 2.723s
+2021-10-20T07:25:04.584Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\project as some of its dependencies were changed since the last visit
+2021-10-20T07:25:05.675Z - info: Site data built
+2021-10-20T07:25:05.675Z - info: Lazy website regeneration complete! Total build time: 1.091s
+2021-10-20T07:25:10.262Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\admin as some of its dependencies were changed since the last visit
+2021-10-20T07:25:10.574Z - info: Site data built
+2021-10-20T07:25:10.575Z - info: Lazy website regeneration complete! Total build time: 0.313s
+2021-10-20T07:25:42.203Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\topics as some of its dependencies were changed since the last visit
+2021-10-20T07:25:45.360Z - info: Site data built
+2021-10-20T07:25:45.360Z - info: Lazy website regeneration complete! Total build time: 3.157s
+2021-10-20T07:35:06.122Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial as some of its dependencies were changed since the last visit
+2021-10-20T07:35:06.825Z - info: Site data built
+2021-10-20T07:35:06.826Z - info: Lazy website regeneration complete! Total build time: 0.704s
+2021-10-20T07:36:36.406Z - info: Website generation started at 3:36:34 pm
+2021-10-20T07:36:41.895Z - info: Building assets...
