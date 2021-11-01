@@ -1058,12 +1058,17 @@ Also see:
 **The goal of freezing features in the pre-release iteration** is to subject the features to at least one round of intensive non-dev testing before they are released to the users. In a real project, minor or critical changes might be allowed even near a deadline -- but here, we do not allow _any_ feature changes because it can start us on a slippery slope and many "is this change allowed?" queries. Therefore, {{ version_final }} should not have _any_ features that was not already tested in the PE-D).
 
 **FAQs:**
-* **Q:** Can we add a missing validity check for a user input?<br>
+* **Q: Can we add a missing validity check for a user input?**<br>
 **A:** Yes, but only if its absence causes the software to mis-behave (i.e., it's omission can be considered a bug).
-* **Q:** Testers have reported missing feature or suggested feature tweaks or reported feature flaws. Can we add/tweak those features?<br>
+* **Q: Can we add/tweak features if testers have reported/suggested them** as possible improvements or feature feature flaws?<br>
 **A:** No, as that goes against the spirit of having a feature freeze. Most teams receive such suggestions from testers as we allow feature suggestions in PE-D (but they are not allowed in the PE). You can use those suggestions when you envision future versions of the product (i.e., beyond {{ version_final }} -- to improve your product design skills. But for now, focus on fixing bugs, and perfecting other aspects such as testing, documentation, code quality.<br>
  {{ icon_tip }} Some lower-priority features can be argued as out-of-scope if there were other higher priority features that took up the available time. Every team has to draw the line _somewhere_ as there wasn't a lot of time to implement features.<br>
   {{ icon_tip }} While you are not allowed to fix feature-flaws in this iteration, you can still reduce the penalty they can cost in the PE (if they are reported again in the PE) by reducing their impact on the user (e.g., by clearly specifying limitations of the current implementation in the UG), thereby reducing the severity of the bug.
+* **Q: How to distinguish between a feature tweak (i.e., not allowed) and a bug fix (i.e., allowed)?**<br>
+**A:** A case should satisfy both these conditions for it to be considered a bug fix:<br>
+  (a) The behavior in question is !!stated!! in the UG and the actual behavior !!differs!! from it.<br>
+  (b) The feature is implemented !!fully!!, but behaves incorrectly.<br>
+ {{ icon_important_big_red }} Just putting the behavior in the UG first (without implementing it fully) and implementing it later in {{ version_final }} does not qualify as a bug fix.
 </box>
 </div>
 
