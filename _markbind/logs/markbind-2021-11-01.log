@@ -100,3 +100,90 @@
 2021-11-01T05:09:54.985Z - info: Website regeneration complete! Total build time: 1.96s
 2021-11-01T05:10:33.540Z - info: Website generation started at 1:10:32 pm
 2021-11-01T05:10:37.616Z - info: Building assets...
+2021-11-01T05:10:42.105Z - info: Assets built
+2021-11-01T05:10:42.107Z - info: Generating pages...
+2021-11-01T05:10:50.596Z - debug:  
+2021-11-01T05:10:50.597Z - debug:  
+2021-11-01T05:10:50.597Z - debug:  
+2021-11-01T05:10:50.598Z - debug:  
+2021-11-01T05:10:50.598Z - debug:  
+2021-11-01T05:10:50.598Z - debug:  
+2021-11-01T05:12:24.556Z - debug:  
+2021-11-01T05:12:35.602Z - debug:  
+2021-11-01T05:12:35.602Z - debug:  
+2021-11-01T05:12:43.091Z - info: Pages built
+2021-11-01T05:12:43.967Z - info: Site data built
+2021-11-01T05:12:43.967Z - info: Website generation complete! Total build time: 131.954s
+2021-11-01T05:12:43.967Z - info: Build success!
+2021-11-01T05:12:57.509Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-11-01T08:54:01.009Z - info: Website generation (lazy) started at 4:53:56 pm
+2021-11-01T08:54:07.217Z - info: Building assets...
+2021-11-01T08:54:11.954Z - info: Assets built
+2021-11-01T08:54:11.954Z - info: Generating landing page...
+2021-11-01T08:54:12.938Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-11-01T08:54:13.794Z - info: Site data built
+2021-11-01T08:54:13.794Z - info: Website generation (lazy) complete! Total build time: 17.279s
+2021-11-01T08:54:14.640Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-11-01T08:54:14.640Z - info: Press CTRL+C to stop ...
+2021-11-01T08:54:16.133Z - info: [4:54:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T08:54:16.133Z - info: Synchronizing opened pages list before reload
+2021-11-01T08:54:16.134Z - info: No pages are currently opened
+2021-11-01T08:54:17.674Z - info: Assets built
+2021-11-01T08:55:15.950Z - info: [4:55:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T08:55:15.951Z - info: Synchronizing opened pages list before reload
+2021-11-01T08:55:15.952Z - info: Current opened pages, from most-to-least recent:
+2021-11-01T08:55:15.952Z - info: 1. index
+2021-11-01T08:55:16.974Z - info: Assets built
+2021-11-01T08:56:37.074Z - info: [4:56:37 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T08:56:37.074Z - info: Synchronizing opened pages list before reload
+2021-11-01T08:56:37.074Z - info: Current opened pages, from most-to-least recent:
+2021-11-01T08:56:37.074Z - info: 1. index
+2021-11-01T08:56:38.081Z - info: Assets built
+2021-11-01T08:56:46.963Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2021-11-01T08:56:47.714Z - info: Site data built
+2021-11-01T08:56:47.714Z - info: Lazy website regeneration complete! Total build time: 0.752s
+2021-11-01T08:57:16.744Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints as some of its dependencies were changed since the last visit
+2021-11-01T08:57:16.971Z - info: Site data built
+2021-11-01T08:57:16.971Z - info: Lazy website regeneration complete! Total build time: 0.227s
+2021-11-01T09:00:06.206Z - info: [5:00:06 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T09:00:06.206Z - info: Synchronizing opened pages list before reload
+2021-11-01T09:00:06.206Z - info: Current opened pages, from most-to-least recent:
+2021-11-01T09:00:06.207Z - info: 1. admin/tp-constraints
+2021-11-01T09:00:07.215Z - info: Rebuilding 1 pages
+2021-11-01T09:00:07.495Z - info: Site data built
+2021-11-01T09:00:07.495Z - info: Pages rebuilt
+2021-11-01T09:00:07.495Z - info: Website regeneration complete! Total build time: 0.283s
+2021-11-01T09:00:39.183Z - info: [5:00:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T09:00:39.184Z - info: Synchronizing opened pages list before reload
+2021-11-01T09:00:39.184Z - info: Current opened pages, from most-to-least recent:
+2021-11-01T09:00:39.184Z - info: 1. admin/tp-constraints
+2021-11-01T09:00:40.199Z - info: Rebuilding 1 pages
+2021-11-01T09:00:40.526Z - info: Site data built
+2021-11-01T09:00:40.526Z - info: Pages rebuilt
+2021-11-01T09:00:40.526Z - info: Website regeneration complete! Total build time: 0.328s
+2021-11-01T09:00:51.319Z - info: [5:00:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T09:00:51.319Z - info: Synchronizing opened pages list before reload
+2021-11-01T09:00:51.319Z - info: Current opened pages, from most-to-least recent:
+2021-11-01T09:00:51.319Z - info: 1. admin/tp-constraints
+2021-11-01T09:00:52.326Z - info: Rebuilding 1 pages
+2021-11-01T09:00:52.555Z - info: Site data built
+2021-11-01T09:00:52.555Z - info: Pages rebuilt
+2021-11-01T09:00:52.555Z - info: Website regeneration complete! Total build time: 0.23s
+2021-11-01T09:02:50.567Z - info: [5:02:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T09:02:50.567Z - info: Synchronizing opened pages list before reload
+2021-11-01T09:02:50.567Z - info: Current opened pages, from most-to-least recent:
+2021-11-01T09:02:50.567Z - info: 1. admin/tp-constraints
+2021-11-01T09:02:51.573Z - info: Rebuilding 1 pages
+2021-11-01T09:02:51.805Z - info: Site data built
+2021-11-01T09:02:51.806Z - info: Pages rebuilt
+2021-11-01T09:02:51.806Z - info: Website regeneration complete! Total build time: 0.235s
+2021-11-01T09:03:21.624Z - info: [5:03:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-constraints.md
+2021-11-01T09:03:21.624Z - info: Synchronizing opened pages list before reload
+2021-11-01T09:03:21.624Z - info: Current opened pages, from most-to-least recent:
+2021-11-01T09:03:21.624Z - info: 1. admin/tp-constraints
+2021-11-01T09:03:22.642Z - info: Rebuilding 1 pages
+2021-11-01T09:03:22.843Z - info: Site data built
+2021-11-01T09:03:22.844Z - info: Pages rebuilt
+2021-11-01T09:03:22.844Z - info: Website regeneration complete! Total build time: 0.203s
+2021-11-01T09:06:08.630Z - info: Website generation started at 5:06:06 pm
+2021-11-01T09:06:14.408Z - info: Building assets...
