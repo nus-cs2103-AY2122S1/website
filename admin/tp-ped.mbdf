@@ -203,6 +203,10 @@ Report as many bugs as you can find during the given time. Take longer if you ne
 <include src="tp-pe.mbdf#type-labels" />
 </div>
 
+
+* {{ icon_info }} **If you need to include `<` or `>` symbols in your bug report**, use HTML equivalents for 'less than'
+and 'greater than' instead (i.e., `&lt;` and `&gt;` e.g., `x &lt; y` instead of `x < y`).<br>
+Reason: CATcher and GitHub strips out content wrapped in `<` and `>`, for security reasons.
 </box>
 </div>
 
