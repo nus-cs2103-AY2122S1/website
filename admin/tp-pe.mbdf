@@ -127,7 +127,7 @@ severity, while you actually chose the lower one.
 {{ embed_topic("tp-grading-bugs.mbdf#dgBugs", "Admin " + icon_embedding + " tP Grading → **Possible DG Bugs**", "3", indent="2") }}
 <p/>
 
-* **You may visit the team's project on GitHub during this phase**, for the purpose of verifying the accuracy of documentation %%e.g., to check if a diagram matches the code%%
+* **You may visit the team's project on GitHub during this portion**, for the purpose of verifying the accuracy of documentation %%e.g., to check if a diagram matches the code%%. You are also allowed to download and open the team's code in a code editor.
 
 ##### <span class="badge badge-success">PE Phase 1 - Part III</span> <span class="text-success">Overall Evaluation [15 minutes]</span>
 
