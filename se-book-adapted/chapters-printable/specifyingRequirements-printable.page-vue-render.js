@@ -119,7 +119,7 @@ with(this){return _c('p',[_v("When separating extensions from the MSS, keep in m
 with(this){return _c('p',[_v("In use case diagrams you can use the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("<<extend>>")]),_v(" arrows to show extensions. Note the direction of the arrow is from the extension to the use case it extends and the arrow uses a dashed line.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("A use case can "),_c('mark',[_v("include")]),_v(" another use case.")]),_v(" "),_c('span',{staticClass:"underline"},[_v("Underlined text")]),_v(" is commonly used to show an inclusion of a use case.")])}
+with(this){return _c('p',[_c('strong',[_v("A use case can "),_c('mark',[_v("include")]),_v(" another use case.")]),_v(" "),_c('span',{staticClass:"underline"},[_v("Underlined text")]),_v(" is used to show an inclusion of a use case.")])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("when you don't want to clutter a use case with too many low-level steps.")]),_v(" "),_c('li',[_v("when a set of steps is repeated in multiple use cases.")])])}
@@ -170,6 +170,6 @@ with(this){return _c('div',[_c('h2',{attrs:{"id":"supplementary-requirements"}},
 with(this){return _c('strong',[_v("A "),_c('em',[_v("supplementary requirements")]),_v(" section can be used to capture "),_c('em',[_v("requirements that do not fit elsewhere")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 12 Nov 2021, 14:54:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 14 Nov 2021, 1:51:32 GMT+8]")])])])}
 }];
   

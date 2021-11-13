@@ -1,0 +1,129 @@
+2021-11-13T06:57:53.797Z - info: Website generation (lazy) started at 2:57:49 pm
+2021-11-13T06:57:59.362Z - info: Building assets...
+2021-11-13T06:58:03.696Z - info: Assets built
+2021-11-13T06:58:03.697Z - info: Generating landing page...
+2021-11-13T06:58:04.661Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-11-13T06:58:05.477Z - info: Site data built
+2021-11-13T06:58:05.477Z - info: Website generation (lazy) complete! Total build time: 16.342s
+2021-11-13T06:58:06.236Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-11-13T06:58:06.236Z - info: Press CTRL+C to stop ...
+2021-11-13T06:58:47.882Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe as some of its dependencies were changed since the last visit
+2021-11-13T06:58:50.399Z - info: Site data built
+2021-11-13T06:58:50.400Z - info: Lazy website regeneration complete! Total build time: 2.519s
+2021-11-13T07:05:39.400Z - info: [3:05:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:05:39.401Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:05:39.401Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:05:39.402Z - info: 1. admin/tp-pe
+2021-11-13T07:05:40.424Z - info: Rebuilding 1 pages
+2021-11-13T07:05:42.625Z - info: Site data built
+2021-11-13T07:05:42.625Z - info: Pages rebuilt
+2021-11-13T07:05:42.626Z - info: Website regeneration complete! Total build time: 2.204s
+2021-11-13T07:05:53.698Z - info: [3:05:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:05:53.699Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:05:53.699Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:05:53.699Z - info: 1. admin/tp-pe
+2021-11-13T07:05:54.712Z - info: Rebuilding 1 pages
+2021-11-13T07:05:56.160Z - info: Site data built
+2021-11-13T07:05:56.161Z - info: Pages rebuilt
+2021-11-13T07:05:56.161Z - info: Website regeneration complete! Total build time: 1.45s
+2021-11-13T07:06:16.048Z - info: [3:06:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:06:16.048Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:06:16.049Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:06:16.049Z - info: 1. admin/tp-pe
+2021-11-13T07:06:17.053Z - info: Rebuilding 1 pages
+2021-11-13T07:06:19.012Z - info: Site data built
+2021-11-13T07:06:19.013Z - info: Pages rebuilt
+2021-11-13T07:06:19.013Z - info: Website regeneration complete! Total build time: 1.961s
+2021-11-13T07:06:26.793Z - info: [3:06:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:06:26.793Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:06:26.794Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:06:26.794Z - info: 1. admin/tp-pe
+2021-11-13T07:06:27.799Z - info: Rebuilding 1 pages
+2021-11-13T07:06:29.005Z - info: Site data built
+2021-11-13T07:06:29.005Z - info: Pages rebuilt
+2021-11-13T07:06:29.006Z - info: Website regeneration complete! Total build time: 1.207s
+2021-11-13T07:07:52.623Z - info: [3:07:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:07:52.624Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:07:52.624Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:07:52.624Z - info: 1. admin/tp-pe
+2021-11-13T07:07:53.638Z - info: Rebuilding 1 pages
+2021-11-13T07:07:55.350Z - info: Site data built
+2021-11-13T07:07:55.350Z - info: Pages rebuilt
+2021-11-13T07:07:55.351Z - info: Website regeneration complete! Total build time: 1.716s
+2021-11-13T07:10:21.460Z - info: [3:10:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:10:21.461Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:10:21.461Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:10:21.461Z - info: 1. admin/tp-pe
+2021-11-13T07:10:22.479Z - info: Rebuilding 1 pages
+2021-11-13T07:10:24.496Z - info: Site data built
+2021-11-13T07:10:24.497Z - info: Pages rebuilt
+2021-11-13T07:10:24.497Z - info: Website regeneration complete! Total build time: 2.019s
+2021-11-13T07:11:31.909Z - info: [3:11:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:11:31.909Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:11:31.910Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:11:31.910Z - info: 1. admin/tp-pe
+2021-11-13T07:11:32.927Z - info: Rebuilding 1 pages
+2021-11-13T07:11:34.575Z - info: Site data built
+2021-11-13T07:11:34.575Z - info: Pages rebuilt
+2021-11-13T07:11:34.575Z - info: Website regeneration complete! Total build time: 1.649s
+2021-11-13T07:19:32.368Z - info: [3:19:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:19:32.368Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:19:32.369Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:19:32.369Z - info: 1. admin/tp-pe
+2021-11-13T07:19:33.373Z - info: Rebuilding 1 pages
+2021-11-13T07:19:35.052Z - info: Site data built
+2021-11-13T07:19:35.053Z - info: Pages rebuilt
+2021-11-13T07:19:35.053Z - info: Website regeneration complete! Total build time: 1.681s
+2021-11-13T07:19:46.598Z - info: [3:19:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-pe.mbdf
+2021-11-13T07:19:46.599Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:19:46.599Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:19:46.599Z - info: 1. admin/tp-pe
+2021-11-13T07:19:47.610Z - info: Rebuilding 1 pages
+2021-11-13T07:19:48.794Z - info: Site data built
+2021-11-13T07:19:48.794Z - info: Pages rebuilt
+2021-11-13T07:19:48.794Z - info: Website regeneration complete! Total build time: 1.185s
+2021-11-13T07:22:28.306Z - info: [3:22:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped.mbdf
+2021-11-13T07:22:28.307Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:22:28.307Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:22:28.307Z - info: 1. admin/tp-pe
+2021-11-13T07:22:29.321Z - info: Rebuilding 1 pages
+2021-11-13T07:22:30.670Z - info: Site data built
+2021-11-13T07:22:30.670Z - info: Pages rebuilt
+2021-11-13T07:22:30.670Z - info: Website regeneration complete! Total build time: 1.349s
+2021-11-13T07:23:19.853Z - info: [3:23:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped.mbdf
+2021-11-13T07:23:19.853Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:23:19.854Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:23:19.854Z - info: 1. admin/tp-pe
+2021-11-13T07:23:20.870Z - info: Rebuilding 1 pages
+2021-11-13T07:23:22.181Z - info: Site data built
+2021-11-13T07:23:22.181Z - info: Pages rebuilt
+2021-11-13T07:23:22.181Z - info: Website regeneration complete! Total build time: 1.312s
+2021-11-13T07:23:46.944Z - info: [3:23:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped.mbdf
+2021-11-13T07:23:46.945Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:23:46.945Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:23:46.945Z - info: 1. admin/tp-pe
+2021-11-13T07:23:47.957Z - info: Rebuilding 1 pages
+2021-11-13T07:23:49.265Z - info: Site data built
+2021-11-13T07:23:49.265Z - info: Pages rebuilt
+2021-11-13T07:23:49.265Z - info: Website regeneration complete! Total build time: 1.311s
+2021-11-13T07:26:43.959Z - info: [3:26:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped.mbdf
+2021-11-13T07:26:43.959Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:26:43.960Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:26:43.960Z - info: 1. admin/tp-pe
+2021-11-13T07:26:44.971Z - info: Rebuilding 1 pages
+2021-11-13T07:26:46.247Z - info: Site data built
+2021-11-13T07:26:46.248Z - info: Pages rebuilt
+2021-11-13T07:26:46.248Z - info: Website regeneration complete! Total build time: 1.279s
+2021-11-13T07:27:32.872Z - info: [3:27:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped.mbdf
+2021-11-13T07:27:32.872Z - info: Synchronizing opened pages list before reload
+2021-11-13T07:27:32.873Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T07:27:32.873Z - info: 1. admin/tp-pe
+2021-11-13T07:27:33.886Z - info: Rebuilding 1 pages
+2021-11-13T07:27:35.173Z - info: Site data built
+2021-11-13T07:27:35.173Z - info: Pages rebuilt
+2021-11-13T07:27:35.173Z - info: Website regeneration complete! Total build time: 1.288s
+2021-11-13T08:02:17.686Z - info: [4:02:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\useCases\details\inclusions.md
+2021-11-13T08:02:17.687Z - info: Synchronizing opened pages list before reload
+2021-11-13T08:02:17.688Z - info: Current opened pages, from most-to-least recent:
+2021-11-13T08:02:17.689Z - info: 1. admin/tp-pe
+2021-11-13T08:02:18.713Z - info: Assets built
