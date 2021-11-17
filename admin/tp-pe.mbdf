@@ -377,7 +377,7 @@ Only the `response.Accepted` bugs are counted against the dev team. While `respo
   * severity downgraded
   * bug type changed
   * bug flagged as duplicate %%(Note that you still get credit for bugs flagged as duplicates, unless you reported both bugs yourself. Nevertheless, it is in your interest to object to bugs being flagged incorrectly as duplicates because when a bug is reported by more testers, it will be considered an 'obvious' bug and will earn slightly less credit than otherwise)%%
-* If you disagree with the team's decision but would like to revise your own initial type/severity/response as well, you can state that in your explanation %%e.g., you rated the bug `severity.High` and the team changed it to `severity.Low` but now you think it should be `severity.Medium`%% (do not change the original labels yourself though).
+* If you disagree with the team's decision but would like to revise your own initial type/severity as well, you can state that in your explanation %%e.g., you rated the bug `severity.High` and the team changed it to `severity.Low` but now you think it should be `severity.Medium`%% (do not change the original labels yourself though).
 * You can also refer to the below guidelines:
 
 {{ embed_topic("tp-pe.mbdf#additionalGuidelinesForBugTriaging", "Admin " + icon_embedding + " PE → Phase 2 → Additional Guidelines for Bug Triaging", "pe-additionalGuidelinesForBugTriaging", 2, indent=2) }}
